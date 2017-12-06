@@ -1,0 +1,32 @@
+{
+    "author": "Igor Artamonov",
+    "additionalAuthors": null,
+    "badges": [],
+    "created": "2016-06-26",
+    "description": "Agreements based on signatures of off-chain entities",
+    "isNew": false,
+    "isNsfw": false,
+    "lastUpdated": "2017-05-21",
+    "license": "MIT",
+    "logoUrl": null,
+    "mainnet": null,
+    "name": "Toporick",
+    "related": [],
+    "slug": "toporick",
+    "contracts": [],
+    "socials": {
+        "github": {
+            "url": "https://github.com/splix/toporick"
+        }
+    },
+    "status": "abandoned",
+    "nofollow": true,
+    "tags": [
+        "signatures",
+        "agreements"
+    ],
+    "teaser": "Agreements based on signatures of off-chain entities",
+    "testnet": null,
+    "website": "https://toporick.com/",
+    "dappUrl": null
+}

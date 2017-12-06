@@ -1,0 +1,958 @@
+demeter,"With value transferred via our Ethereum based DMT Token - you could be in the
+middle of New York City, or the middle of Xi’an China - and you’d be able to connect
+with local farmers to find, produce and eat fresh, local food. And by cutting out the
+large corporate middleman you’d save money - and your farmer would make money
+while doing it.",1,0,Marco Mettimano,Nando Dessena,Demeter,demeter,A central hub to rent and farm micro fields anywere in the world,wip,0,0,0.1211143536133161,https://demeter.life/
+restart-energy,"With our experience as an energy provider within the European Market, we created the only blockchain-based energy
+trading ecosystem that can work with existing laws and regulations.",1,0,Restart Energy Team,,Restart Energy,restart-energy,Restart energy democracy,wip,0,0,0.5810846855086903,
+proveit,"ProveIt is a decentralized application (ĐApp for short) powered by Ethereum. It offers users a simple value proposition: the ability to prove that they said or possessed something, anything, without the need to rely on a trusted intermediary. This is an extraordinary and unprecedented phenomenon with implications for intellectual property rights, credibility in peer-to-peer networks, and much more.",1,0,Noah Zinsmeister,,ProveIt,proveit,Proof of Possession,live,0,0,0.2800222102205436,https://noahzinsmeister.github.io/ProveIt/
+ddash,"* One-click Ethereum coinification of any digital resource
+
+* One-click creation of self-propagating Ethereum networks (no need for manual enode entry)
+
+* One-click compilation and deployment of Ethereum contracts to any Ethereum blockchain
+
+* Allows DApps to interface with the Interplanetary File System (IPFS) to minimize on-chain storage
+
+* Upload and download data to/from an Etheruem blockchain with one click",1,0,Omar Metwally,,DDASH,ddash,Distributed data sharing hyperledger,prototype,0,0,0.7309164018678725,
+pixura,Pixura allows users to connect their instagram feeds and tokenize their unique content.,1,0,John Crain,,Pixura,pixura,Instagram feed for selling pictures,wip,0,0,0.43512180270231643,http://pixura.io
+donatedirect,This is a mockup website presenting an idea for a charity crowdfunding platform. ,1,0,Harro Engelen,"Tom Murray, Rico Griek, Geneviève Lekner, Adrian Mauroschat",DonateDirect,donatedirect,Fund Amsterdam charity projects,concept,23,12,0.5290733356407624,http://www.donatedirect.info
+token-splitter,The Token Splitter is a decentralized app that allows anyone to airdrop any token to multiple ethereum addresses. This utility can assit in airdrop events and ICO sales to alleviate mechanical and time-consuming manual transfers. This app is powered by MetaMask.,1,0,Lalena,,Token Splitter,token-splitter,Equally split any ERC20 or ERC223 token amount between multiple addresses,live,24,8,0.31085820695373295,https://splitter.lalena.co/
+bitofme,"Generates an embeddable form modeled similar to creditcard payment form. Embed or link directly in your blog, twitter, facebook, website or anywhere html is accepted.
+Lets you write smart contracts to perform automated backend processes upon payment receipt. Uses friendly name (ENS) instead of address.
+Read more at https://medium.com/@enslisting.com/if-you-wanted-to-tip-me-in-eth-now-abbae24bf1a2
+",1,0,Mano Samy,,BitOfMe,bitofme,"Embed PayNow form in blog, twitter, facebook, website",live,35,23,0.5693409282039433,https://enslisting.com/manage
+8-stakes,"This is a game for Ethereum with a 75% winning probability. Players select a room by players number (eight or four persons) and a bid size (Ξ0.08 or Ξ0.8 or Ξ8). After your room will be filled, three quarters of players win, one quarter lose. Winners get back their bids and one quarter of a room bid (taked from losers).
+In other words, it's pretty simple to win in this game and hard to lose. So all our ""perks"" - jackpot and refund - are only for losers",0,0,Sesokaj,,8 Stakes,8-stakes,Game with a 75% probability of winning,live,108,58,0.4725601819130326,http://8stakes.sesokaj.com
+propx-nanochain,"The system is called PROPX NanoChain, its a private blockchain investment platform for financial institutions and other clients. These organisations will use the system to create fractional investment products. Our platform will take care of every aspect of the product life cycle from product setup to managing the end consumer experience.",0,0,ProsperiProp,,PROPX NanoChain,propx-nanochain,A possibility for anyone to invest in top property,wip,42,20,0.39005062459670375,https://prosperiprop.com
+crypto-crawl,"What is crypto crawl ?
+Ethereum based DApp (main/testnets) simulating a dungeon crawling economy : hero, xp, gold, items, dungeons, bank, hazard...
+Metamask plugin for user interaction
+Oraclize services for random number generation.
+ERC20 Tokens Standard to support digital ownership.",0,0,quiz7,,Crypto Crawl,crypto-crawl,Dungeon crawling game,prototype,51,20,0.31918979496507693,http://www.cryptocrawl.io/
+blocklancer,"Blocklancer is our vision of a completely self-regulatory platform for finding jobs and getting projects done efficiently and fairly. Blocklancer is changing the way freelancing works for both the freelancer and customers, focusing on creating a more trustworthy platform all stakeholders can rely on. Tokenholders take part in the process of dispute resolution.  ",0,0,Michael Kaiser,"Kevin Kaiser, Christof Kurzemann, Alexander Thellmann, Sabrina Kaiser",Blocklancer,blocklancer,A freelancing platform that allows automated dispute resolution,wip,59,18,0.21928378137429141,https://blocklancer.net/
+control-the-train,Airalab has designed the game “Robonomics: control the train through AIR tokens” to illustrate the investors the opportunities of controlling a “lights-out” manufacturing by means of nothing but the capital which is our dear and beloved AIR token.,0,0,Airalab,,Control the train,control-the-train,Interaction between human-robot and robot-robot via liability smart contract,concept,32,12,0.24855954720488346,https://aira.life/cases/
+balanceof,"This dapp scans etherdelta exchange smartcontract and tells you which of your tokens are still there.  The ""Withdraw"" function will let you easly clean your balance. No more dust left behind!
+
+All comments welcome!",0,0,Mr R0bek,,balanceof,balanceof,Tokens deposited to etherdelta with easy withdrawal option,live,29,9,0.2253698060551079,http://balanceof.me
+kombit,"‘Kombit’ is a Haitian Kreyol term used to define a community working together towards a common goal. Kombit was developed by Haitian Canadian architectural technologist, Steve Michel and Finnish visual artist Petri Saarikko in 2017",0,0,nogo10,,Kombit,kombit,The pay it forward initiative,wip,49,15,0.3239453778875649,https://nogo10.github.io/
+chather,Chather provides the easiest way to start a conversation with every account address available in Ethereum . Each message signature can be stored in blockchain and stay there forever. Chather shows with of your contacts are online. It is easy to use and fully integrates with Metamask plugin.,0,0,Fusion Logic,,Chather,chather,"Communication platform, allows send messages between network accounts",live,59,25,0.4931237260949234,http://chather.io
+toastycoin,"Toastycoin is an interface to Burnable Payment contracts. It allows users to create, browse, and interact with BPs.
+
+Burnable Payments allow a payer to submit payment for an open request, and specify a service deposit. Any user can then commit to do the work by submitting the deposit. The payer then has the choice to burn or release parts of the ether held in the payment, depending on whether and how well the worker has done the work.
+
+Read more at toastycoin.com.",0,0,coin-op Logan,,Toastycoin,toastycoin,Outsource work to reliable strangers or earn ether by completing jobs,live,165,100,0.5753853314158299,http://www.toastycoin.com
+ghostkat,An experimental streaming service that doesn't use a server,0,0,GhostKat Team,,GhostKat,ghostkat,An experimental streaming service that doesn't use a server,live,916,606,0.6341754231215269,https://ghostkat.org/
+azrael,"A collection of applications that can communicate with the blockchain using a web3j interface
+
+",0,0,Azrael Team,,Azrael,azrael,"A collection of applications that can communicate with the blockchain using a web3j interface
+
+",wip,37,1,0.05696559148879629,
+etheroji,"Buy and sell Emojis with Ethereum. Visit Etheroji.com and click on an Emoji to see where it leads, or buy your own and add a link of your choosing. If someone buys your Emoji you’ll get your Ether back+20%.
+
+Most expensive Emojis are at the top, buy one and push it up the rankings! Price doubles each time – all powered by Smart Contracts.
+
+Etheroji is a fun project that introduces users to making Ethereum transactions and the potential of Smart Contracts.",0,0,Emothereum Industries,,Etheroji,etheroji,Buy and sell emojis with smart contracts,live,73,31,0.37216968738208345,http://www.etheroji.com
+trust-wallet,Trust - fast and secure Ethereum wallet that’s easy to use.,0,0,Trust Team,,Trust Wallet,trust-wallet,fast and secure wallet that’s easy to use.,live,103,50,0.5098296550403103,https://trustwalletapp.com/
+vyral,Advertising platform for fueling viral growth for crypto token sales to tokenizing reward programs for businesses,0,0,Lee Pennington,"Neil Patel, Vijay Kandy, Thiago Oliveira, Kelsen Andrade",Vyral,vyral,Advertising platform for fueling viral growth for crypto token sales,wip,41,17,0.4779068612115567,https://vyral.network/#home
+simple-token,Easily launch digital currencies on open Ethereum sidechains and turn any business into a dynamic ecosystem.,0,0,Simple Token Team,,Simple Token,simple-token,Cryptocurrency to power digital communities,wip,40,17,0.3505986655916738,https://simpletoken.org/
+stakebank,"Stakebank provides a simple method to allow for staking while keeping a lightweight ERC20 interface.
+
+It moves core staking logic out of token contracts which has been done by tokens like MiniMe, this allows for cheaper token transfers.",0,0,Dean Eigenmann,Harbour Project,Stakebank,stakebank,A platform to simply stake ERC20 tokens,wip,26,8,0.4433861836005148,https://github.com/HarbourProject/stakebank
+project-entropy,A community steered fleet of sailing hackspaces,0,0,Entropy Team,,Project Entropy,project-entropy,A community steered fleet of sailing hackspaces,wip,30,11,0.483007137224462,http://project-entropy.com
+choon,A music streaming service and digital payments ecosystem,0,0,Gareth Emery,"Bjorn Niclas, Matt Hall, John Watkinson",Choon,choon,A music streaming service and digital payments ecosystem,wip,98,54,0.5347096810864254,https://www.choon.co/
+ethereumpro,Ethereum Pro is an ERC20 compatible coin building on top of the foundation of the Ethereum project with the ambitious goal to introduce the software security layer to the companies. EPRO main purpose is to act as an active deterrent for common programming mistakes and malicious smart contracts that exist today on the Ethereum platform.,0,0,Chipp T. Mayer,"Alexander White, Jane B. Brown, George Mayer, Steven Wilkos, Bart Kneidenger",EthereumPro,ethereumpro,Token to facilitate payments and transfers,concept,52,18,0.20788419865751062,https://ethereumpro.io/
+appcoins,"AppCoins is an open and distributed protocol for App Stores.
+It will drastically improve and speed up advertising, in-app billing and app approvals, using blockchain and smart contracts technology.
+",0,0,AppCoins Team,,AppCoins,appcoins,Open and distributed protocol for App stores,wip,66,19,0.3350830040880498,https://appcoins.io/
+ink,Reputation and payments for peer-to-peer marketplaces,0,0,Gee-Hwan Chuang,James Fong,Ink,ink,Reputation and payments for peer-to-peer marketplaces,wip,55,25,0.46791922619823956,https://paywithink.com/
+ethmailer,"Messages stored in IPFS and hashes broadcasted as events, live on Ropsten.",0,0,EthMailer Team,,EthMailer,ethmailer,"Messages stored in IPFS and hashes broadcasted as events, live on Ropsten.",live,81,43,0.5665200785295353,http://ethmailer.com/
+juncture,Choose-your-own-adventure,0,0,Sam Sharp,,Juncture,juncture,Choose-your-own-adventure,live,167,91,0.540294703166064,
+dydx,A protocol for financial derivatives,0,0,Antonio Juliano,,dYdX,dydx,A protocol for financial derivatives,wip,40,15,0.38213892781493847,https://dydx.exchange/
+cosmos,"To create a network of distributed ledgers that will solve long-standing problems in the cryptocurrency and blockchain communities.
+
+",0,0,Cosmos Team,,Cosmos,cosmos,To create a network of distributed ledgers that will solve long-standing problems on the Blockchain,live,73,32,0.3446525614136417,https://cosmos.network/
+keep-network,A keep is an off-chain container for private data. Keeps help contracts harness the full power of the public blockchain — enabling deep interactivity with private data.,0,0,Keep Network Team,,Keep Network,keep-network,An off-chain container for private data,wip,22,7,0.47898103352322097,https://keep.network/
+wala,"Transact, purchase, and connect all directly from your phone.",0,0,Wala Team,,Wala,wala,A financial platform,live,204,112,0.5853505505645188,https://www.getwala.com/#convenience
+basecoin,"A robust, price-stable cryptocurrency with an algorithmic central bank",0,0,Nader Al-Naji,"Lawrence Diao, Josh Chen",Basecoin,basecoin,"A robust, price-stable cryptocurrency with an algorithmic central bank",wip,36,16,0.30933613517100694,http://www.getbasecoin.com/
+truebit,"TrueBit gives Ethereum smart contracts a computational boost. Don't let Ethereum's gas limit drag your imagination! A novel incentive structure guarantees fast, reliable, and affordable results without third-party trust.",0,0,TrueBit Team,,TrueBit,truebit,"Secure, scalable computation",live,29,8,0.1985905203931302,https://truebit.io/
+render-token,"A network to transform the power of GPU compute into an economy of connected 3D assets
+",0,0,Jules Urbach,"Alissa Grainger, Ari Emanuel",Render Token,render-token,"A network to transform the power of GPU compute into an economy of connected 3D assets
+
+",wip,28,8,0.30892140267450113,https://rendertoken.com/
+polkadot,A heterogeneous multi‑chain technology,0,0,Polkadot Team,,Polkadot,polkadot,A heterogeneous multi‑chain technology,wip,53,17,0.36832707382294183,https://polkadot.network/
+extend,"ΞXTΞND is a Chrome browser extension that aims to bring the power of Ethereum blockchain to various social websites such as reddit. This is accomplished by making slight modifications to certain web pages (such as adding “tip” button to reddit posts) while having an Ethereum light client integrated into the extension. In the initial release, a user can send tips to other reddit users or buy them reddit gold with ETH directly.",0,0,Decenter,,Extend,extend,Chrome extension that allows users to tip or buy gold with Ether on Reddit,live,35,12,0.3306787063386591,
+stone-tablets,"Thats it, just write any text to the blockchain.
+
+You can make a notebook - stone tablet, because it is forever. 
+
+Add records to it.
+
+Manage permissions and ownership.",0,0,A. M. Cherkashin,,STONE TABLETS,stone-tablets,Notebooks on chain,live,109,56,0.5801246463558107,https://amchercashin.github.io/stone_tablets/
+smart-diploma,"Service is designed to verify Academic Diplomas and Certificates easily and fast.
+
+Institutions can put documents on the blockchain for free, using open-source technology provided, or using smartdiploma interface.
+
+Graduates will prove the authenticity of their certificates and have a way to share it across their network. 
+
+Recruiters will verify diploma they've received with single click. No additional validation required.",0,0,RichBrains,,Smart Diploma,smart-diploma,Anti-falsification solution for academic diplomas and certificates,live,109,53,0.5021576428857039,https://smartdiploma.io
+evermarkets,"EverMarkets is a decentralized platform for trading global futures markets on margin. You can trade existing futures, create new markets, or lend tokens to other traders.",0,0,EverMarkets,,EverMarkets,evermarkets,"A cheaper, fairer, and easier way to trade global futures on margin",prototype,35,11,0.30727715675281686,https://evermarkets.com
+ens-bid,"ENS.BID is a dapp helps everyone to register, transfer, set subdomain and futher will perform a market place for trading, escrow and loan ENS  with smart contract.
+",0,0,ENS.BID Team,,ens-bid,ens-bid,Register a .eth domain name for usinga DApp,live,87,39,0.42714797565604046,https://dapp.ens.bid
+ficoin,"Have you ever heard for diversification? Are you familiar with cryptocurrency curve?
+A blockchain-based investment network that makes it possible for anyone to trade crypto currencies or to earn  a  passive weekly  income  with  our  intelligent trading application. ",0,0,FiCoin Technology,,FiCoin,ficoin,AI trading bot,demo,162,70,0.4717858834834226,https://ficoin.tech/
+clickmine,"What is a token anyway?  In ClickMine, you ""mine"" a virtual piece of land by repeatedly clicking and buying various powerups.  As you mine, you collect CLK, an erc20 token with a standard interface - but as wealth is created, it is also destroyed.  ",0,0,Sarah Friend,,ClickMine,clickmine,A token-minting clicker game,live,270,151,0.5824009626601284,https://clickmine.click/
+staketree,"StakeTree is decentralized funding platform where funders can back creators, teams & projects.",0,0,Niel de la Rouviere,,StakeTree,staketree,"Growing sustainable funding for creators, teams and projects",live,73,26,0.33019941844606865,https://staketree.com
+message-to-the-world,MessageToThe.World lets Publishers to posts cheap messages to Subscribers of the site. The highest bidding message is displayed on main page for certain time. Winning bounty is splited amongst all subscribers. If you are Subscriber you can claim a few ETH on every published message on front page. If you are Publisher you can advertise your project or site at cheap prize to hundreds of ethereum subscribers.,0,0,iko,,Message to the world,message-to-the-world,Recieve earnings for viewing and publishing messages,live,157,83,0.6350944103635936,https://messagetothe.world
+grafiti,Grafiti lets you scratch anything into the blockchain. All published content becomes public domain. You can filter publications by author or browse all submissions. The only cost of publication is the transaction fee.,0,0,William Morriss,,Grafiti,grafiti,The archive of the Internet,live,112,46,0.42975811709755085,https://grafiti.online
+corl,"Corl’s revenue-sharing fund and investment platform makes it easy for crypto-investors to invest in companies via a digital token, while providing companies with access to fast, fairly-priced, and entrepreneur-friendly growth capital. 
+
+For crypto-investors, the Corl digital token pays a continuous stream of dividends based on the revenue of companies with the fund. 
+
+For companies, Corl offers an upfront capital injection with flexible repayment terms based on their future revenue growth.",0,0,Derek Manuge,"Sam Kawtharani, KC Chan",Corl,corl,A revenue-sharing platform that provides companies with capital,prototype,60,20,0.32864509944847337,http://www.corl.io
+300-science,Reward points platform,0,0,Jim,,300.science,300-science,Reward points platform,concept,57,11,0.24593720814712855,
+duke-of-ether,"Becoming a Duke
+Select a Country you feel like ruling. 
+Pay 50% more than your predecessor. Your money will go to him - you become a new Duke.
+
+Destroying a Country. 
+Don't like this country? Destroy it using Power of Ether!
+
+Creating a Country.
+You can create new country or restore one destroyed by someone else.
+
+All names of all Dukes will stay in blockchain for as long as Ethereum itself exists!",0,0,SnowCron Group,Steve Brown,Duke of Ether,duke-of-ether,Pay for the right to take the "Throne",live,230,137,0.5881445950490908,http://duke-of-ether.com
+dividend,"DIVIDEND is an ERC-20 Token which has been created to solve three major
+problems in cryptocurrency.
+
+1. Falsely promised DIVIDEND payouts.
+2. Complicated transfers
+3. Real world use.
+
+We will introduce a secure email based transaction system secured by 2 factor authentication and other security protocols to encourage new blood into cryptocurrency.
+
+Dividends is payable to holders upon various targets being reached, this is outlined in our whitepaper.",0,0,Dividend Foundation,,Dividend,dividend,Providing secure email based transactions and dividend payouts,live,88,40,0.4583072912534383,http://www.dividend.cloud/
+request-network,"A decentralized network built on top of Ethereum, which allows anyone, anywhere to request a payment.",0,0,Etienne T.,Christophe L.,Request Network,request-network,"The network for payment requests, sort of a Paypal 2.0",prototype,71,31,0.5019926518549973,https://request.network
+happta,"happta is a publishing platform based on decentralized and open source technologies. It aims to be the standard on decentralized projects communications.
+
+",0,0,Miguel Beltran,,happta,happta,Transparant and anonymous publishing platform,live,359,218,0.6191905093131068,http://www.happta.com
+etherlottery,"This is an implementation of a lottery in the ethereum blockchain. It reveals the winning number after all tickets have been sold. It uses a probably fair algorith, so anyone could verify the game round. As a player your ethers are secured and inmediately available for withdraw if you win.",0,0,Christian Hentschel,,Etherlottery,etherlottery,Smart contract enforced lottery,live,251,136,0.5197029424606883,https://etherlottery.co/
+trust-game,"There are only 3 player in this game.
+Each player transfer ETHs to the contract and either decides to trust or not to trust.
+The game ends when the third player makes his/her decision.
+Result:
+If all 3 players decided to trust, then each player will get back the amount of fund they have transferred.
+If only 1 player decided not to trust, then the player will get full amount of fund. Other players and the owner get nothing
+Otherwise, owner will get full amount of fund and all players will get not",0,0,Feleio,,Trust Game,trust-game,Simple 3-player decision game,live,105,54,0.43262353569444617,
+invoice-financing-dapp,"The representation of an invoice in this experiment is really basic, the experiment focuses more on exploring the interaction between the contracts and the users rather than modelling the exact business process. Our future experiments will also focus on modelling how a real invoice and Trade Financing process would be like.",0,0,Rishav Chatterjee,,Invoice Financing DApp,invoice-financing-dapp,Invoicing Platform,prototype,79,11,0.1293716461470952,
+wtcooo,WTCOOO is a blockchain project built in Ethereum that will supply social services and cash subsidies to individuals and families for poverty avoidance with the big picture goal of achieving an inclusive prosperity across the world.,0,0,Larry Bridges,,WTCOOO,wtcooo,A social service network focused on poverty avoidance​,concept,104,38,0.3772078018173136,https://www.wtcooo.us/
+ethdraw,62500 Pixel  shared canvas. Each pixel drawn is a transaction sent via Web3 browser capability. Updates by other users are done in real time.,0,0,Avios64,,EthDraw,ethdraw,Large multi-user art canvas,live,190,103,0.4742537597390984,http://www.EthDraw.Io
+amadeus-relay,"Amadeus Relay is a 0x relayer that will provide a liquidity pool for token exchange. Through Amadeus' API, DApps will be able to quickly exchange ERC20 tokens.",0,0,Amadeus Team,,Amadeus Relay,amadeus-relay,A 0x Relayer designed to provide liquidity to DApps,wip,45,6,0.21859999958062487,http://amadeusrelay.org
+circleramide,"Spend ether to buy a block. 
+Each row of blocks costs more than the previous one by 25%. 
+98% ETH from the block goes to both blocks on the bottom 
+2% ETH from the block goes to fund of rewards and creators 
+Each 100th block receives a reward! 
+Block #5000 will break JACKPOT and finish the game!",0,0,Jura Shevchenko,,Circleramide,circleramide,Pyramid-based game there everyone can earn ether,live,250,95,0.3616055250426554,https://godstep.ru/ethereum/Circleramide
+auctus,"Through smart contract auditable code, the platform will ensure full transparency and compliance to fund rules. Furthermore, it will allow calculations for contributions, employer match, benefits, as well as other features, such as selection of investment profiles, registration of beneficiary designations (in case of death), administration fee calculations and portability between funds.",0,0,Felipe Silveira,"Vinicius Melo, Ludmila Lopes, Raphael Vantroost, Daniel Duarte",Auctus,auctus,Smart contract powered retirement solutions,demo,102,54,0.5404079044366976,http://auctus.org
+consulteth,"ConsultEth is an Ethereum-based meteor application that integrates Smart-Contract Technology and WebRTC (p2p video and audio call technology) to enable a decentralized real-time consulting market. Also utilizes MetaMask(Chrome/FirefoxExtension) for account creation, management and signing blockchain-bound transactions.",0,0,Muthee Vincent,Waweru James,ConsultEth,consulteth,"
+Consulting platform",prototype,65,27,0.44132295233319485,http://www.consulteth.com/
+token-store,A slick and fast exchange for Ethereum tokens built on smart contracts.,0,0,Amber DAO,,Token Store,token-store,Exchange platform for Eth tokens,live,382,226,0.5540077577662114,https://token.store
+live-contracts,"LiveContracts is a platform to model agreements in such a way that they are easily understandable for both computers and humans. Breaking down an agreement or law in these understandable pieces has the added benefit that some parts  can be executed by computers that have no or very basic AI. Other parts can be left to human interpretation.  We are doing this by modelling laws and contracts as deterministic finite state machines, a cornerstone in the field of automata theory. ",0,0,Arnold Daniels,"Rick Schmitz, Sven Stam, Martijn Migchelsen, Moesjarraf Jahangier, Evgeny Chobachov",Live Contracts,live-contracts,Empowering users to automate agreements and laws in finite state machines,wip,60,25,0.3173112901470187,http://livecontracts.io
+ether-to-the-moon,"Hi guys, we just wanted to let you know that Ethereum is going to go to the moon. Like, all the way! So, you better buy Ethereum, like how we did in June '17 and HODL.
+
+No! No! Don’t think about BTC, free money and BS. You’re here for the right reasons, right? Ain’t just about money, right?
+
+Anyways, for the naysayers amongst you, I am going to say it again, “Ethereum will go to the moon because of Cool Decentralized Apps like this one. They can be built by anyone, served to everyone, forever!”.",0,0,EtherMoon,,Ether to The Moon,ether-to-the-moon,Messages by the community,live,183,99,0.5079511271167175,https://ethereumtothemoon.github.io/ethertothemoon/
+selfkey,"SelfKey is a blockchain based digital identity system where its users can truly own, control and manage their digital identity, and instantly and securely buy passports, residency, fintech products, financial services, and sign up for coin exchanges, token sales and much more...",0,0,SelfKey Team,,SelfKey,selfkey,Identity Network,prototype,60,19,0.32235452449842644,https://selfkey.org/
+lottoken,"Lottoken platform aims to enable organizers to hold truly secure, trustworthy and transparent contests which can include raffles and lotteries. We hope to disrupt $275B global contests markets which include different types of raffles, lotteries and contests.
+
+Lottoken's use case is the perfect application of blockchains and smart contracts. Being decentralized means there is no central point of trust failure. Patent-pending technology innovations from us will make Lottoken contests 100% fair.",0,0,Chandan Mishra,"Arindam, Arindam Paul, Chandan Mishra",Lottoken,lottoken,A lottery platform letting you organize fully trustworthy and secure raffles,live,207,117,0.5616129101603938,http://lottoken.org
+mercury-protocol,"an open-source project for communication platforms to utilize decentralized blockchain technology at minimal cost. Any communication platforms that integrate the Mercury Protocol will be able to exchange messages and content, increase user privacy through pseudonymity, leverage tokens to encourage user participation, and provide stronger network security than any private system that has a single point of failure.",0,0,Ryan Ozonian,Rohit Kotian,Mercury Protocol,mercury-protocol,Open source project for communication at low costs,wip,55,13,0.25450358620776026,https://www.mercuryprotocol.com/about
+scientocracy,"Scientocracy is a dynamic ecosystem that uses nascent technology to 
+bring forth new paradigms to improve scientific entrepreneurship, inventorship, 
+research, discovery, investing and employment. Scientocracy aims to fairly conserve 
+and develop the science heritage of the human race without sacrificing legitimacy, 
+integrity and reputation. In a way, we provide a legal alternative to Sci-Hub 
+utilizing blockchain technology and ingeneous community tools.",0,0,Alejandro Mercado Capote,,Scientocracy,scientocracy,A network using nascent technology to bring new paradigms to improve scientific entrepreneurship,wip,65,17,0.17593737037305202,http://scientocracy.network/posts/XJJovuhsQyxKXHfJe/start-here
+realitycheck,"Reality Check is a crowd-sourced smart contract oracle system by Reality Keys.
+Whether you're a human or an Ethereum contract, Reality Check provides financial incentives to get you the facts in the post-truth era.",0,0,RealityKeys Team,,RealityCheck,realitycheck,Crowd-sourced smart contract oracle system,prototype,35,9,0.28938071062482223,https://realitykeys.github.io/realitycheck/
+erc-dex,"ERC dEX is a Øx relayer that provides advanced financial tools with a focus on simplicity and liquidity. Our proprietary Aqueduct network facilitates real-time order sharing between liquidity providers, ERC dEX, and the broader Øx relayer community to provide traders with the tightest spreads on the market.",0,0,ERC dEXCHANGE,"David Aktary, Luke Autry, Brandon Curtis, Lindsey Renken, James Kocsis, John Mattox",ERC dEX,erc-dex,Exchange Your Crypto Assets with Confidence,prototype,76,23,0.34673046149752135,http://www.ercdex.com
+topiacoin,"TopiaCoin will combine patented security technology for shredding and encrypting data with the power of blockchain, to deliver the most robust and Secure Decentralized File Sharing infrastructure. Individuals and businesses will be able to easily and securely share any digital asset without a central authority and with the confidence that each transaction is performed in a manner agreed upon by the blockchain. ",0,0,Topia Technology,"Inc., John Haager, Cody Sandwith, Janine Terrano",TopiaCoin,topiacoin,Secure distributed file sharing,concept,48,19,0.3831377364225877,https://topiacoin.io
+embrace-clarity,Decentralised open source hardware and software for the better of humanity.,0,0,Dimo Trifonov,,Embrace Clarity,embrace-clarity,"Open source hardware, decentralized phone",concept,103,57,0.455916109492642,http://embraceclarity.com
+ethychat,"Ethychat lets you exchange messages between any addresses on the Ethereum blockchain. Ethychat is free to use, only transaction costs incur and only for sending messages. All chats on Ethychat are public.",0,0,Philipp Hasselbach,,Ethychat,ethychat,A blockchain messenger,live,1388,851,0.5994542869510211,http://ethychat.io
+concurrence-io,"After writing a few smart contracts you quickly realize that you need an oracle to provide off-chain data like sports scores, currency prices, weather data, etc. 
+
+Today, only centralized oracles exist and this a major security risk for Dapp developers. 
+
+Concurrence is a smart contract fleet that accepts generic requests from developers, emits signaling events to a decentralized swarm of miners, collects simple responses, and delivers a currency-backed consensus on-chain.",0,0,Austin Thomas Griffith,,Concurrence.io,concurrence-io,Oracle Network,wip,81,37,0.3702066134115588,https://concurrence.io
+dirtrex,The decentralized platform using blockchain technology to create trading model "Contract for difference" that you can to use for CFD trading crypto-currency using your own wallet — no account needed. ,0,0,DirTrex Hedge Fund,,DirTrex,dirtrex,Crypto-trading platform,wip,44,23,0.553593872448819,http://dirtrex.com
+blinc-click,"This is a simple incremental game, where users can upgrade a counter and make it run higher and higher.",0,0,Louis Merlin,"Hugo Roussel, Ambroise Méan",blinc.click,blinc-click,An incremental game experiment,live,239,132,0.5429447321175458,http://blinc.click
+landmark,"Landmark is a social network implemented as a smart-contract for ethereum. It is completely decentralized, permanent, and uncensorable form of communication for as long as ethereum exists. When you mark, the message is etched into the blockchain forever. You'll need a web3 interface (like Metamask) to post to the site live, but you can still view without the extension. ",0,0,Metasemantic,,Landmark,landmark,Message board,live,399,230,0.5673019528298165,https://thoppe.github.io/Landmark/index.html?address=0xD38e005a28fae8D8c4238444BC08E7Da83902310
+own-a-number,"Remember that time when you were first mind-blown by pi? How about when you first encountered the very notion of imaginary, complex numbers, or even just square root of 2? Here, you can ""own"" your favorite number on the Ethereum blockchain as a tribute. Since the blockchain is being used a ledger, your proof of ownership will be live as long as the blockchain is live. Note that the actual owning process will involve auction such that the highest bidder will be the owner of each number.",0,0,Kevin Choi,,Own A Number,own-a-number,Own your favorite number via auction,live,104,48,0.4699757290615326,http://ownanumber.github.io
+artsmesh,"Application for live P2P networked performances of any kind. Mesh (MSH) Token economy. Connect artists, bands, orchestras and ensembles on different continents. Pass the DJ set from club to club and city to city. Multichannel, uncompressed audio, H264 video and open sound control. User and group wallets. Project contracts that go live when you do; while the audience is incentivized to buy live and own part of the IP.",0,0,Syneme Labs,Ken Fields,Artsmesh,artsmesh,Live P2P networked music performance,prototype,85,22,0.22400274471242074,http://artsmesh.com
+find-ether,"Introducing the first Dapp for many future Ethereum users, buying Ethereum Peer to Peer through a 100% trustless decentralized platform. 
+
+Security: With our Smart Contract driven Escrow System, all of your assets are always secure. 
+
+Encrypted Self-destructing Chat
+
+Review and rating management system. 
+
+Low Fees of 1% as compared to Coinbase ~4%
+
+Instantaneous instead of watiing for multiple days for KYC to clear on Global exchanges.
+
+No more excuse to not buy Ethereum. Do share feedback.
+
+Thx",0,0,FindEther Networks,,Find Ether,find-ether,Buy Ethereum cheap and securely online,demo,135,43,0.2949669345415888,https://findether.com/
+stors,"Stors.dappstar.io allows you to manage recurring payments in a user-friendly way. Set up standing orders to pay your rent, deposit regularly into your savings account or provide weekly allowance to your kids.",0,0,Michael Bauer,,stors,stors,Manage standing orders,live,100,44,0.4164203180666586,http://stors.dappstar.io
+martinofriends,"MartinoFriends charity platform is a new way to give and receive.
+
+In our mind charity can be like a laboratory where new kinds of help and support can be designed and deployed.
+
+Clear rules and trust in order to join together donors and beneficiaries, transparent methods to cut off leakages, middlemen and frauds.
+
+Profitable for everybody, donors, beneficiaries, investors, shareholders.
+
+Our aim is to support a large number of donors giving to really many beneficiaries.",0,0,Mauro Luigi Rogna,Franco Amisano,MArtinoFriends,martinofriends,Starting up a new way to manage the wide world of giving and charity,wip,30,13,0.6474347921064592,http://www.martinofriends.com
+ethticket,"Buy and sell events, seminars, shows workshops, concerts tickets.",0,0,Rene Mantecon,,EthTicket,ethticket,Buy and sell event tickets,concept,45,29,0.8012438623115207,http://ejercitodelexito.com
+terrapin-ticketing,Terrapin Ticketing is a ticketing platform that allows artists and venues to sell tickets directly to fans with no counterfeits and no scalping.,0,0,Terrapin Ticketing,,Terrapin Ticketing,terrapin-ticketing,A peer-to-peer frictionless ticketing marketplace that prevents scalping,prototype,30,15,0.5571221727061667,https://TerrapinTicketing.com
+beether-pro,"Game to create a network of referrals with substantial benefits
+Game to create a network of referrals with substantial benefits
+- Buy pollen to play. At least 3
+- Transfers poles to other players
+- Sell your winnings at any time.
+- Paying taxes every week from unused pollen.
+- We're in testing until the middle of the month. Then we will be on mainnet
+
+I await your comments. Enjoy it",0,0,David Robledo,,Beether Pro,beether-pro,Game to create a network of referrals with substantial benefits,live,79,33,0.34673134799828126,http://www.beether.net
+fragmented,"It's time to build a platform for free speech that is owned by the people.
+
+Earn money from posting popular content. Tip authors that you support by upvoting and commenting. Get a share of the ad fees that the Fragmented generates, just by using the site.
+
+Fragmented will be a safe place to peacefully share your opinions without censorship. Unlike Reddit, moderators will be elected, and if they abuse their power, you can vote them out.
+
+Fragmented will eventually use IPFS or Swarm.",0,0,Ryan Yosua,,Fragmented,fragmented,A social network for Ethereum enthusiasts.,concept,77,29,0.3197513075910249,http://fragmented.world/
+ethorse,"Ethorse is an Ethereum Blockchain Smart Contract Based Decentralized Application to bet on the price of a cryptocurrency and win against other bettors. No emails, or signup. 
+
+-Simply choose a winner among BTC, ETH and LTC for a fixed time period.
+-Enter your bet with Metaumask (Or Geth/Mist)
+-Smart contract locks the find, finds the results and prepares the rewards for the users to collect without any external input
+
+Use the odds to win big betting on underdogs or bet safe to win small",0,0,Ethorse,,Ethorse,ethorse,Bet on a price and win against other bettors,live,127,76,0.5668044576686475,https://ethorse.github.io/Betting/
+cryptokitties,Collectible non-fungible tokens that are breedable and will have over 4 billion variations. ,0,0,Axiom Zen,"Benny Giang, Arthur Camara, Mack Flavelle, Dieter Shirley, Fabiano Soriani, Guile Gaspar, Daniela",CryptoKitties,cryptokitties,Collect and breed digital cats,live,535,279,0.5270322353403486,http://www.cryptokitties.co
+eth93,"The ETH93 smart contract offers a simple, entirely transparent lottery game running off the Ethereum blockchain. Each day, a lottery is held, and a random number is generated to determine the winner. 93% of ticket sales go to the winner and 5% go to an established charity. Our smart contract code has been verified on Etherscan and we welcome any criticism.",0,0,ETH93,,ETH93,eth93,Lottery smart contract with a cut of revenue going to charity,live,114,54,0.4412296289798234,https://www.eth93.com
+name-bazaar,"At its core, Name Bazaar allows peer-to-peer, trust-less exchange of cryptographic assets on the blockchain in the form of “names”, or Ethereum Name Service (ENS) domains.
+Name Bazaar provides the ability for any user with a name for sale to generate unique smart contracts that allow transfer of ownership of that name to a new Ethereum address and owner, and receive payment in return. Any user with Ethereum looking to buy a name can do so through these contracts by interacting with the website.
+",0,0,district0x,,Name Bazaar,name-bazaar,A peer-to-peer marketplace for the exchange of names registered via the ENS,live,96,39,0.3555969914342297,https://namebazaar.io/
+wavevote,"WaveVote is a voting system based on Ethereum. It is inspired and is based on the work of https://github.com/stonecoldpat/
+
+Based of this work, WaveVote :
+
+1 - Removed the limit of 40 voters
+2 - Removed the obligation of all voters to vote
+3 - Add a distributed administration => keep all secret safe until all administrators are corrupted. If one administrator is safe, then all secrets are safe (WORK IN PROGRESS)
+4 - Add the possibility to organize a multi-candidates election
+5 - and so on",0,0,Kévin DESCAMPS,,WaveVote,wavevote,Secure and transparant voting system,wip,161,13,0.07161189946636169,
+every-shop,"Every brings blockchain technology and governance to eCommerce and retail in a powerful new way.  We do it by decentralizing the traditional supply chain and consumer purchasing format to empower each member of the ecosystem.  In that way, each brand, consumer, and partner will benefit from substantial shared efficiencies.  A decentralized supply chain affords a unique opportunity to organize the volume of insights, analysis, capital and human resources the participating brands possess. It also ",0,0,John Wantz,"Nick Hansen, Eddie Wang, Kyle Schei",Every Shop,every-shop,Retail Marketplace,concept,135,61,0.42588113717696496,http://every.shop
+bitcoinereum,First Bitcoin Minable ERC20 Token on the Ethereum Blockchain - Same supply mechanism as Bitcoin.,0,0,eSatoshi,,Bitcoinereum,bitcoinereum,Bitcoin minable ERC20 Token,live,193,111,0.5982162345200936,http://bitcoinereum.com
+bether-me,"Bet 1 vs 1 of any type of event that occurs.
+Play with your friends to guess what is going to happen.
+No charge per bet
+Totally anonymous
+Instant Payments at Bethers
+Option to buy and sell Bethers
+Currently on Ropsten test network",0,0,David Robledo,,Bether.me,bether-me,Bet 1 vs 1 of any type of event that occurs,demo,75,40,0.48447544094154193,http://www.bether.me
+fivemedium,"This 4chan-like dapp allows you to post text, images and videos while not fearing censorship.",0,0,David Wong,,FiveMedium,fivemedium,A 4chan-like land of freedom,live,229,132,0.5716337239395296,https://www.davidwong.fr/FiveMedium/
+artemine,First Self Mining Smart Contract 2.0 with Public Mining Possibility,0,0,Artemine Team,,Artemine,artemine,Self mining smart contract 2.0 with public mining possibility,live,119,67,0.5147334666064429,https://www.artemine.org
+bytebet,"ByteBet is a peer-to-peer, community-driven betting platform based on Ethereum that
+allows players from anywhere in the world to create customized bets and play against
+each other.
+Bets are based on Ethereum smart contracts, providing a transparent betting
+environment without any manipulation and with fast execution.
+ByteBet is a decentralized platform where the middleman is eliminated, creating a fair
+betting platform. A portion of the fees are shared between the community members.",0,0,ByteBet,"Tamas Torok, Zoltan Molnar",ByteBet,bytebet,"Peer-to-peer, community-driven betting platform",concept,61,27,0.5288801612820457,https://byte.bet/
+king-of-the-hill,"Transfer exactly 0.1 ether to the contract to become King of the Hill. If you remain King for 60 minutes you will win, the next time somebody snatches the crown you will be sent the winnings and the game will begin again at 0.1 Ether.",0,0,X-cessive Overlord,Agyle Master Assassin,King of the Hill,king-of-the-hill,Snatch the crown and become king to win Ether,live,246,152,0.6510581567240125,http://acmeme.biz
+dada,"DADA is the world’s only visual conversation network where artists and regular people speak to each other through drawings.
+
+Over 150K registered users and close to 100K drawings made on the platform.
+
+Using blockchain technology, we are channeling the collaborative art our users create in our platform into a decentralized marketplace run by smart contracts where artist have IP protection and collectors get proof of ownership.",0,0,Beatriz Ramos,"Judy Mam, Abraham Milano, Juan González, Juan Florville",DADA,dada,A visual conversation platform and marketplace for digital art,live,738,427,0.5327737446292563,https://dada.nyc/
+localethereum,"We’re sick of the dangerous misplaced trust in centralised exchanges which continue to lose hundreds of millions of dollars of our money. Traders have been getting the raw end of the deal for far too long now, so we’ve changed the game.
+
+Localethereum aims to be the most secure and private marketplace that crypto has seen. Unlike other over-the-counter marketplaces, we’re the first to implement a completely in-browser crypto setup to protect you off and on the blockchain.",0,0,LocalEthereum Team,,localethereum,localethereum,Peer-to-peer marketplace allowing to trade eth to fiat,live,174,111,0.705189377219172,https://localethereum.com/
+swap-20,An ERC-20 token exchange platform,0,0,Simon Cheng,Thomas Lui,Swap 20,swap-20,An ERC-20 token exchange platform,concept,33,5,0.18808219811754806,
+options,Tokenizing options,0,0,Li Xuanji,Yuwei Xu,Options,options,Tokenizing options,concept,25,4,0.25119044406301855,
+zeroexchange,Peer-to-peer token exchange built on top of 0x,0,0,Sukhveer Sanghera,,ZeroExchange,zeroexchange,Peer-to-peer token exchange built on top of 0x,live,179,84,0.45736755120393574,http://www.zero.exchange/
+airbits,Disrupting frequent flyers loyalty programs,0,0,Sheshadri Mantha,"Underlabs Dev, Ahad Shoaib, Mohamed El Kandri",AirBits,airbits,Disrupting frequent flyers loyalty programs,concept,54,8,0.14242499243555864,
+dsurance,P2P Insurance,0,0,Jashan Shewakramani,"Alexandre Cuoci, Manuel Dionne, Colin Daly",Dsurance,dsurance,P2P Insurance,demo,79,28,0.35341878281944716,
+trustq,Secure waitlist,0,0,Josh Zucker,"hollyknowlman, Jack Neto, Ivamacio Magalhaes",TrustQ,trustq,Secure waitlist,wip,10,0,0.23206838588697778,
+eth-red,Web3/Ethereum interface for Node-RED,0,0,Lucas Zeer,,eth-red,eth-red,Web3/Ethereum interface for Node-RED,demo,22,5,0.26289096302810333,
+bikechain,Bike ownership and theft database,0,0,Michael Free,,BikeChain,bikechain,Bike ownership and theft database,concept,44,6,0.15475510813334,
+smartshares,Cap Table Management,0,0,Paul Foley,,SmartShares,smartshares,Cap Table Management,wip,8,1,0.0694781041924203,
+twibet,Transforming Twitter arguments into bets -- forcing you to put your money where your mouth is!,0,0,Corbin McElhanney,"Elliot Olds, Justin Hamilton, Yumeng",Twibet,twibet,Transforming Twitter arguments into bets,demo,54,7,0.20489033965718564,
+dog-the-opensource-bounty-hunter,What if someone was actually incentivized to solve your github issue?,0,0,nahimn,"M0eJay, Faisal Al-Tameemi, Dave Druska",DOG the Opensource Bounty Hunter,dog-the-opensource-bounty-hunter,Incentivized open source work with a bounty program,demo,30,3,0.06849764379281302,
+portera-wallet,A new ethereum wallet that brings modern personal banking tools to Ethereum while also innovating on them.,0,0,Matthew Patience,"Steven Andrews, Greg Carron",Portera Wallet,portera-wallet,Wallet bringing modern personal banking tools,wip,105,54,0.5517214680670052,http://porterawallet.com/mywallet.html
+alma,"The soul is that intangible thing that makes you unique, Alma (soul) is your fair and secure digital representation.",0,0,Alejandro Vidal Rodriguez,Gustavo Giudici,Alma,alma,Fair and secure digital representation,concept,17,2,0.06823044738870698,
+plasma-like-blockchain-exchange-network,Plasma-like blockchain with Merkle tree approving of side-blockchain transactions. Collection items swap demo case.,0,0,Denis Khoruzhiy,Alexander,Plasma-like Blockchain Exchange Network,plasma-like-blockchain-exchange-network,Collection items swap demo case,demo,17,2,0.11033542708157387,
+openship,"OpenShip is a smart contract that tracks shipment of physical goods, allowing for peer-to-peer shipment networks.",0,0,Cadotte,"Oasis Vali, Michael Rooke",OpenShip,openship,Peer-to-peer shipment networks with tracking,demo,57,24,0.4896970582829786,
+initial-bounty-offering-platform,"Crowdsource human resources, development, marketing and more for blockchain technology ecosystems",0,0,antron3000,Subramanian Venkatesan,Initial Bounty Offering Platform,initial-bounty-offering-platform,"Crowdsource human resources, development, marketing",demo,28,7,0.1440328549182037,
+myhksalth,Network of smart contracts that provide incentives for patients to collect previous health data from providers.,0,0,Michael Nolivos,"Gustavo Franklin Nobrega, Michael O'Rourke, Diógenes Hermínio",myHΞALTH,myhksalth,Incentives for health data,wip,82,9,0.152905190556658,
+the-dac,The DAC (Decentralized Autonomous Charity) is a more transparent way to donate to charitable/non-profit projects.,0,0,Michaelangelo Yambao,"Leo, Matt Lockyer, Tomasvrba",The DAC,the-dac,Donate to charitale and non-profit projects,wip,14,3,0.20717452425269167,
+stable-swap,"Swap any ERC20 token for MakerDao Sai stablecoin using the 0x network, and easily send or pay for digital goods.",0,0,Tomisin Jenrola,"Sean Brennan, Alice Man",Stable Swap,stable-swap,Swap any ERC20 token for MakerDao Sai stablecoin,wip,23,4,0.12770998921264934,
+mazi,"Request complex tasks, and Mazi (powered by empathetic humans + learning computers) will help.",0,0,Vivek Singh,"Matthew Siu, Niko Lazaris, Arpit Dalmia",Mazi,mazi,"Request complex tasks, and Mazi will help",wip,22,8,0.3842275847358647,
+expensereum,Expense tracking and reimbursements for businesses and institutions,0,0,Brian Richter,isEvrythngTkn,Expensereum,expensereum,Expense tracking and reimbursements for businesses and institutions,concept,12,4,0.29582456546133484,
+gilgamesh-platform-dapp,Gilgamesh Platform allows GIL token holders to propose and suggest new features by letting token holder to Vote on their favorite proposal.,0,0,Skiral Inc.,,Gilgamesh Platform DApp,gilgamesh-platform-dapp,Vote and suggest new proposals for the Gilgamesh Platform,live,63,26,0.2816098919960939,https://vote.gilgameshplatform.com
+prometheus,"Keyan Raahemifar, Will Clark",0,0,Keyan Raahemifar,Will Clark,Prometheus,prometheus,Asynchronous Ethereum,wip,39,19,0.44089001261820426,https://prometheus-eth.herokuapp.com/
+ethfordata,Tired of being a free product for enterprises? Time to get paid!,0,0,adkian,,EthforData,ethfordata,Get paid for your knowledge,concept,157,15,0.10565581534050184,
+light-leadership-meritocratic-ratings-demo,A peer-to-peer rating app for organizations,0,0,Max Nachamkin,"Chris Smith, NoahMarconi",Light Leadership Meritocratic Ratings Demo,light-leadership-meritocratic-ratings-demo,A peer-to-peer rating app for organizations,demo,17,6,0.17067266364346678,
+pocket-by-gonetwork,Teaching youths to save with incentivized pocket change,0,0,Rashid Khan,"Xun Cai, Amit Shah",Pocket by GoNetwork,pocket-by-gonetwork,Teaching youths to save with incentivized pocket change,concept,19,7,0.2566664688916866,https://gonetwork.co/
+xmr-web-miner,"A DIY, customizable webpage monero miner",0,0,lightswarm124,,XMR-Web-Miner,xmr-web-miner,Make your own monero miner webpage,concept,59,6,0.11803134435929055,
+pear,Decentralized peer-review platform providing anonymity and incentivising unbiased evaluation for all members,0,0,Alessandro Ricottone,"pphili, Carlos G. Oliver",PEAR,pear,Peer-review platform,concept,47,5,0.09089239655091058,
+gitcoin-ios-explorer,Push open source forward,0,0,Kevin Owocki,,Gitcoin iOS Explorer,gitcoin-ios-explorer,Explore funded issues from your iphone,prototype,22,10,0.6189496938160616,https://gitcoin.co/
+eulercoin,Earn tokens by solving difficult mathematical,0,0,Bai Li,"tRavAsty, Shala Chen",EulerCoin,eulercoin,Earn tokens by solving difficult mathematical,concept,63,9,0.10369754880127915,
+ticket-wicket,Create an event and sell tickets,0,0,Chris Thomson,"Ben Cox, Kevin Hughes",Ticket Wicket,ticket-wicket,Create an event and sell tickets,wip,184,109,0.5539841242488317,https://ticketwicket.xyz/
+law4all,Making legal information affordable and accessible,0,0,Herry Xu,,Law4all,law4all,Making legal information affordable and accessible,demo,49,11,0.22937250848487417,
+csa-farm-token,Code to create framework to model CSA (Community Supported Agriculture) Farms on Ethereum blockchain,0,0,Edward Mack,,CSA Farm Token,csa-farm-token,Framework for community supported agriculture,wip,42,7,0.14032212051987322,
+howl,Peer-To-Peer Interface Security via Hashed DOM Nodes after Javascript rendering - Prevent ICO Wallet Address Change,0,0,KamesCG,,Howl,howl,Peer-to-peer interface security,wip,15,5,0.2426670059853907,https://wolfdaohowl.firebaseapp.com/#/
+typ3,"A typescript, promise-only alternative to web3",0,0,NickLewanowicz,"Mike Stupich, Henry Nguyen, Jaimin Darji",typ3,typ3,"A typescript, promise-only alternative to web3",concept,4,0,0.7034949960001478,
+trustus,Smart legal contracts for everyone.,0,0,Miguel Ramos,"Scott Stevenson, Yazin",TrustUs,trustus,Smart legal contracts for everyone.,demo,106,21,0.14038292234631589,
+0xchange-me,A free and open relayer exchange,0,0,Gregory F J Hogue,"Billy Rennekamp, Alex Zhao, Kevin Ho",0xchange.me,0xchange-me,A free and open relayer exchange,prototype,32,18,0.44614149001944153,http://0xchange.me
+research-marketplace,Plattform for research articles and research data.,0,0,Betina Schnepf,shinichi higashino,Research Marketplace,research-marketplace,Plattform for research articles and research data,concept,28,1,0.13019593943429716,
+ethjournal,A peer-reviewed journal,0,0,Zichen Jiang,"Natalie Chin, Samuel Yigzaw, Tarun Khanna",ethjournal,ethjournal,A peer-reviewed journal,demo,20,7,0.23621410462909484,
+basic-identity-token,A login with facebook button for web3.0 dapps,0,0,Jonathan Tsang,"Steve Veerman, Eddy Guo, Kaustav Haldar",Basic Identity Token,basic-identity-token,A login with facebook button for web3.0 dapps,wip,30,3,0.16980577582642892,
+generic-mock,Solidity contract that can be used to mock contract dependencies during testing,0,0,Yondon Fu,,Generic Mock,generic-mock,Solidity contract that can be used to mock contract dependencies during testing,wip,12,0,0.13593913162418358,
+ethchronicler,A digital asset for your Pathfinder Society chronicle sheets,0,0,DonutJr,"Alex Disney, sjcohen2",ETHChronicler,ethchronicler,A digital asset for your Pathfinder Society chronicle sheets,wip,6,1,0.13700538057501194,
+angeleth,Get funding from an angel investor,0,0,Moustafa Ismael,"Raphael Koh, StephanieJ10, Nick Bruner",AngelEth,angeleth,Get funding from an angel investor,concept,41,2,0.0829926256341711,
+video-streaming-on-ipfs,Videos streaming on IPFS with the ability to pay for your favorite videos to stay on the network,0,0,leanthebean,,Video Streaming on IPFS,video-streaming-on-ipfs,Video streaming,wip,66,16,0.1857329994290986,
+citethzen,Tax escrow for undocumented immigrants,0,0,gillichu,"William Dias, celiac, Moody Salem",CitEthZen,citethzen,Tax escrow for undocumented immigrants,wip,22,1,0.07315361444789663,
+happy-ens,Resolve *.eth domains in your browser with our dns server,0,0,Collin Chin,"Eric Tu, Tim Siwula",happy_ens,happy-ens,Resolve *.eth domains in your browser with our dns server,live,73,35,0.5076477940441021,http://happyethereum.com/
+uhub,"A protocol for building e-commerce on the blockchain
+ ",0,0,Yeu Nguyen,Anh Nguyen,UHUB,uhub,A protocol for building e-commerce,live,469,286,0.584393884524973,https://uhub.io
+ebola-on-ethereum,"I had a dream... to put the ebola virus genome on the blockchain. Bitcoin made it too hard, but with Ethereum it was easy. All this smart contract and Dapp does is serve up a link to the Swarm file of the genome. I used Swarm because stroing the genome in the contract was not possible and Swarm is decentralized storage, so win win.",0,0,ThatOtherZach,,Ebola on Ethereum,ebola-on-ethereum,Get the URL to the the Ebola virus genome hosted on Swarm,live,47,11,0.2185054016551508,
+next-craft-beer,"We've Crafted a Platform for Breweries. Next Craft Beer will be a
+ layer built on top of the ethereum blockchain & will utilize smart contact technology,
+to allow craft beer breweries to track their products progress from farm
+to bottle. Next Craft Beer will also be launching a Token based on ERC223 standards.
+The tokens are used in a private label APP, offered for free to breweries &
+empower its holders to interact with the app, while facilitating the distribution",0,0,CR Rogers,Matt Masteller,Next Craft Beer,next-craft-beer,Craft Beer supply chain management & token for Mobile APP access/rewards,prototype,111,54,0.5418007329572856,https://nextcraftbeer.com/
+myetherswap,"Exchange Ethereum-based tokens effortlessly
+with MetaMask. It is insanely easy to exchange your tokens in Metamask",0,0,CoinChanges,,MyEtherSwap,myetherswap,Exchange Ethereum-based tokens,live,82,33,0.286459519493664,https://www.MyEtherSwap.com
+enslisting,"ENSListing.com is the leading marketplace to buy, sell ens domain names.  Come search for a name, it lets you start the auction if the name is available, if not, searches its database to see if the name is available for aftermarket sale across any of the exchanges.
+It also lets you instantly buy subdomains for a fraction of the price of top level names (often free, just pay gas). Read more at https://medium.com/@enslisting.com/how-to-resell-your-ens-name-f5da82d16d3",0,0,Mano Samy,,ENSListing,enslisting,Marketplace to buy and sell domains,live,143,72,0.47346835807196885,https://enslisting.com
+stone-dapp,"- Save arbitrary text on the InterPlanetary File System (IPFS )
+- Receive a receipt for your text submission
+- Prove time of submission (via block timestamp)
+",0,0,Adil Haritah,,Stone Dapp,stone-dapp,Carve your texts in stone,live,368,195,0.484317870166955,https://stone-dapp.firebaseapp.com/
+engraved,"Engraved is blockchain technology built on top of Ethereum with two main goals. First, provide a permanent, secure and cheap (less than USD 0.25) mechanism to establish indelible records which relate original works with their copyright holders. This relation is built through customizable copyright licenses on a certain moment in time. The original work is not stored on the blockchain but a cryptographic digest of it, allowing the copyright holder to keep its work in secret if desired. Second, Engraved also constitutes a system for file integrity verification, where file distributors can register files with their checksums under a custom namespace if desired.",0,0,engraved.tech,,Engraved,engraved,Copyright registration and file integrity verification,wip,47,20,0.4350005333864764,https://engraved.tech/
+adchainregistry,adChain Registry is a smart contract on the Ethereum blockchain which stores domain names accredited as non-fraudulent by ADT holders. ADT holders will access a token-weighted voting mechanism through a user interface to vote on whether a publisher domain is fraudulent or non-fraudulent.,0,0,Miguel Mota,,adChainRegistry,adchainregistry,Registry which stores domains accredited as non-fraudulent by ADT holders,demo,23,3,0.06009046597247077,https://adchain.com
+thousand-ether-homepage,"Remember the Million Dollar Homepage? This is a modern re-interpretation as an Ethereum smart contract and DApp, all open source. Take a look, or grab an ad slot and ride the #hype with us.",0,0,Andrey Petrov,Max Veytsman,Thousand Ether Homepage,thousand-ether-homepage,Own a pixel piece on the blockchain,live,867,514,0.5815186300648977,https://thousandetherhomepage.com/
+dragon-coin-japan,"Dragon Coin Japan initiates payments to no, of Ecommerce where mercahnts 
+are benefitted with low cost transaction fee and the benefits could be passed 
+to users . It is now successin Japan with www.touch-mall.com and few more mechants 
+.",0,0,Mr. Toshihiko Kameoka,,Dragon Coin Japan,dragon-coin-japan,Globally E-commerce Payment Processor,demo,83,24,0.30407180034604503,http://www.d-coin.co.jp/
+distense,"Distense is a company everyone can work for that runs on the Ethereum blockchain.  Distense is for-profif, so we build remote working and blockchain-based applications for third-parties.
+
+All organization parameters are voted on by contributors who receive a DID token.  Contributions are performed on a per-task basis, instead of salaries in legacy corporations.",0,0,John Allen,,Distense,distense,For-profit code cooperative,wip,26,10,0.3842543954392493,https://disten.se
+stockblock,"Copyright law hasn’t changed much as technology has. The ability to secure copyright information on the blockchain is ideal. Once the information is registered, it cannot be altered. Therefore, a creator always receives credit without any possibility of dispute and provides you with a “proof of publishing”. Artists can track the activity of their work along with transparent sales and prevent copyright infringement. 
+
+StockBlock is here to put the power back in the hands of the artists. ",0,0,Mangesh Yadav,,StockBlock,stockblock,Copyright infringement solution and marketplace for media artist ,prototype,50,23,0.39156800897964644,http://stockblock.io
+wikigit,"WikiGit implements, in the simplest terms, an organic combination of DAOs, freelancing platforms (like Topcoder), and Git. We call this combination DASPs (Decentralized Autonomous Self-sustaining Projects). The hope is that WikiGit will allow ingenious ideas to incarnate into projects that are self-sustaining in both finances and talent, with minimal cost and hindrances, similar to how Wikipedia allowed an entire encyclopedia to spontaneously come into being. ",0,0,Zefram Lou,,WikiGit,wikigit,Create projects that are self-sustaining in both finances and talent,wip,36,2,0.022030998397242735,
+leeroy,Earn for content creation,0,1,Trie,,Leeroy,leeroy,Social media platform,live,2113,1321,0.6175448856871999,https://leeroy.io
+kript,"Kript is — 
+1) an interface that understands what information the user needs and is interested in receiving in real-time; 
+2) a notification system that delivers this information in an understandable and accessible way at the right moment through inApp / Push proactively and not on request;
+3) a social environment where all decisions can be discussed with other participants and, if desired, shared with them;
+4) a platform to buy/sell crypto assets.",0,0,Ruslan Smirnov,Dmitry Firsov,Kript,kript,Mobile App for crypto investment,wip,22,6,0.2691270050768036,http://kript.io
+mevu,MEVU is a peer to peer custom/social and sports betting dapp,0,0,Kelvin Coelho,Tim McCulloch,meVu,mevu,Peer to peer network for social betting,wip,57,27,0.5207082493726202,https://www.mevu.bet/
+reftoken,"Some of the worlds greatest minds are building the apps of the future based on blockchains, RefToken is here to connect those developers, with the brands and marketers that can make their projects go mainstream.
+
+",0,0,Alexander Anter,Jan Sammut,RefToken,reftoken,Affiliate Platform,prototype,41,11,0.3237208142704752,https://reftoken.io
+ethpixel,Eth Pixel is a project inspired by the Reddit r/place experiment. This version however handles all logic through a smart contract that is on the Ethereum mainnet. Data about every pixel is on the blockchain and is public. Every change by other users is realtime and is visible to everyone. It also supports in window change of Ethereum addresses.,0,0,Aleksa Stankovic,,EthPixel,ethpixel,Interactive pixel map that functions fully through a smart contract,live,265,157,0.5759375235398221,https://decenterapps.github.io/EthPixel/#/
+strato,"Build, manage, and deploy custom blockchains using STRATO.  STRATO includes the first ever query-tool to search blockchain transactions.",0,0,BlockApps Team,,STRATO,strato,"Build, manage, and deploy custom dapps",live,160,85,0.5323357575930026,http://stratodev.blockapps.net
+coin-bet,Coin Bet offers a new approach to the arrangement and staging of lotto,0,0,Coin Bet,,Coin Bet,coin-bet,Coin Bet offers a new approach to the arrangement and staging of lotto,wip,27,9,0.34347163158513494,
+1000-guesses,"- 1000 people will join and Guess a number from 0 to 1000000.
+- Bet a number with a given amount (0.01 eth, 0.1 eth or 1eth for a bet).
+- Once 1000 people finished their bet, the random lottery number will be generated.
+- Among the 1000 people, the one guessed the closest number will get the all the money sent.
+- So if 1000 people joined to a 1 ETH betting, the winner will get almost 1000ETH (the 1 % of it will be sent to the developer).",0,0,1000 guess Team,,1000 guesses,1000-guesses,Random lottery,live,272,142,0.5759646119159928,http://www.1000guess.com/
+retoken,Tokenized real-estate crowdfunding platform,0,0,Retoken Team,,Retoken,retoken,Tokenized real-estate crowdfunding platform,concept,42,19,0.5779781347321472,http://retoken.io/
+unicoin,"UNICOIN’s objective is to create the world’s first art-tech cryptocurrency. In the spirit of Satoshi Nakamoto, it will serve as an eye-opener that cryptocurrencies are a true alternative to the irrational foundations of the offline-markets. 
+
+UNICOIN is driven by the idea of demonstrating in real-time that digital currencies are more sustainable than state currencies if only backed by a sufficiently large number of users.  
+
+Inflate the unicorn and exchange $UCN for ETH.",0,0,saveUNICOINs,,UNICOIN,unicoin,Create art-tech cryptocurrency,live,93,41,0.4968445224743628,http://www.saveunicoins.com
+silc,"Secure Identity Ledger Corporation is the premier digital identity platform with One Digital ID for every person, business or machine. We enable consumers and businesses to enter into and be empowered by the Blockchain Age through a scalable, accessible, interoperable, private and secure platform. Please join us in this revolution, whether you’re a consumer securing your One Digital ID or businesses and entrepreneurs who want to develop exciting applications on the proven My Secure Ledger blockc",0,0,Quan Trinh,"Peter Phung, Sebastiano Trinh, Larry Hackett, Nick Hoang",SILC,silc,Turnkey digital ID system  ,wip,24,6,0.22603561663602365,https://secureidentityledger.com
+the-pyramid-game,Place blocks to build a pyramid and profit,0,0,Jesse Busman,,The Pyramid Game,the-pyramid-game,Place blocks to build a pyramid and profit,live,2195,1409,0.6407838282167312,https://pyramidgame.jesbus.com
+blockaction-io,Secure and simplified transactions for digital assets,0,0,Avrach,llc,Blockaction.io,blockaction-io,Secure and simplified transactions for digital assets,live,115,58,0.5591689086508134,http://blockaction.io/
+hellosugoi,Create and purchase tickets for events,0,0,Angello Pozo,Jason Robert,HelloSugoi,hellosugoi,Create and purchase tickets for events,live,427,259,0.5801718204057918,https://www.hellosugoi.com/
+tug-of-war,A fully decentralised 2 player game of wit,0,0,Etherplay,,Tug Of War,tug-of-war,A fully decentralised 2 player game of wit,prototype,83,37,0.5053821346340281,http://tugofwar.io
+arbiz-platform,Marketing cross platform,0,0,Danil Lalygin,,Arbiz Platform,arbiz-platform,Marketing cross platform,concept,31,13,0.37818963556778445,http://www.arbiz.biz/
+evolve110,Rule 110 is a Turing-complete cellular automaton,0,0,Vanya A. Sergeev,,evolve110,evolve110,Rule 110 is a Turing-complete cellular automaton,live,143,73,0.5308132313259526,https://vsergeev.github.io/evolve110/
+eth-capsule,Bury ether for as long as you want,0,0,wy,,Eth Capsule,eth-capsule,Bury ether for as long as you want,live,104,55,0.49363880324292175,https://ethcapsule.firebaseapp.com/
+trippki,Hotel booking and rewards platform,0,0,Ed Cunningham,,Trippki,trippki,,wip,65,29,0.34704786932622966,https://trippki.com/
+goal-bonanza,Football betting,0,0,Veljko Ristic,,Goal Bonanza,goal-bonanza,Football betting,prototype,79,34,0.34112985645817284,http://www.goalbonanza.com
+ethcrow,Escrow Service,0,0,Nedodn,,EthCrow,ethcrow,Escrow Service,prototype,93,48,0.5170454965131245,https://nedodn.github.io/ethcrow/
+decentrex,Smartcontract powered tokens exchange,0,0,Decentrex Team,,DECENTREX,decentrex,Smartcontract powered tokens exchange,live,105,53,0.5812933317191564,https://decentrex.com/
+sifetly,P2P money transfer,0,0,bellaj badr,,Sifetly,sifetly,P2P money transfer,wip,62,25,0.3016107166741435,http://www.sifetly.com/
+solfi,Financial services,0,0,Jamel C Lyons,,SOLFI,solfi,Financial services,wip,44,19,0.37766258703053784,https://solfintl.wordpress.com/
+biopaycoin,New layer of wallet security,0,0,Stephen Arsenault,,BioPayCoin,biopaycoin,New layer of wallet security,wip,8,2,0.2529565821691732,http://biopaycoin.com
+photochain,Fair p2p trading platform for digital works,0,0,Stolberg & Ishmetev,,Photochain,photochain,Fair p2p trading platform for digital works,prototype,251,150,0.5778322458498405,https://photochain.io/
+refereum,Cut out the video game middleman,0,0,Dylan Jones,,Refereum,refereum,Cut out the video game middleman,prototype,21,7,0.28964748233438675,https://refereum.com
+thebroker,Witness and validator for smart-contracts deal,0,0,coindevbw,,TheBroker,thebroker,Witness and validator for smart-contracts deal,live,75,37,0.6013680885363656,http://swarm-gateways.net/bzz://thebroker.eth/index.html
+eth2phone,Send ether to phone number,0,0,Mikhail Dobrokhvalov,,Eth2phone,eth2phone,Send ether to phone number,prototype,37,13,0.3531971865836235,https://eth2phone.github.io/
+meta-policy-initiative,AI governance and algocracy,0,0,Brent Cooper,,Meta Policy Initiative,meta-policy-initiative,AI governance and algocracy,concept,25,10,0.5723199217957089,http://www.abs-tract.org
+pluscoin,Mobile marketing ecosystem,0,0,Seungyeon Kim,,PlusCoin,pluscoin,Mobile marketing ecosystem,wip,46,8,0.08979619763002569,http://plus-coin.com/en/
+clovers-network,Reversi search as POW & visual asset market,0,0,Billy Rennekamp,,Clovers.network,clovers-network,Reversi search as POW & visual asset market,prototype,7,1,0.17205998734236735,https://clovers.network/
+doubledouble,Money multiplying system,0,0,DoubleDouble Team,,DoubleDouble,doubledouble,Money multiplying system,live,830,516,0.6032181123874426,https://doubledouble.io
+ico-compiler,Deploy crowdsale contracts with no coding knowledge,0,0,wanshun123,,ICO Compiler,ico-compiler,Deploy crowdsale contracts with no coding knowledge,live,172,72,0.38213596874714834,http://icocompiler.com
+sweetbridge,A protocol stack for global commerce and supply chains,0,0,David Henderson,"Hui Hang, Mac Mcgary, Scott Nelson",Sweetbridge,sweetbridge,A protocol stack for global commerce and supply chains,wip,78,30,0.4398197786436114,https://sweetbridge.com/
+solidified,Audit platform for smart contracts,0,0,Eduard Kotysh,Rob Hitchens; Alexander Rysenko,Solidified,solidified,Audit platform for smart contracts,live,98,41,0.4997286641244301,https://www.solidified.io/
+art-of-ethereum,Connect artists and their work to the community,0,0,art/ethereum Team,,Art of Ethereum,art-of-ethereum,Connect artists and their work to the community,live,194,97,0.4699636201353159,https://artofethereum.com/about-1/
+bit-life-and-trust-project,Community based life insurance,0,0,Michael Howton,"Mustafa, Patrick",Bit Life and Trust Project,bit-life-and-trust-project,Community based life insurance,wip,32,12,0.42183311145126584,http://bitlifeandtrust.com/
+annsol,Cryptographic announcements framework,0,0,Max Kaye,,AnnSol,annsol,Cryptographic announcements framework,live,26,10,0.3792595507366531,http://ann-sol.com/
+selfpay,Point of sale application with profit sharing amongst sellers ,0,0,Raphael,,SelfPay,selfpay,Point of sale application with profit sharing amongst sellers ,wip,46,20,0.4444780776272706,https://ico.selfpay.asia
+lothereum,An open source Lottery,0,0,Onepercent Team,,Lothereum,lothereum,An open source Lottery,wip,57,8,0.12511711305310774,
+ethvpn,Authenticated OpenVPN servers,0,0,Chance Hudson,,EthVPN,ethvpn,Authenticated OpenVPN servers,prototype,44,14,0.22849381725424273,
+aletheia,Academic publishing,0,0,Kade and Roo,,Aletheia,aletheia,Academic publishing,wip,34,14,0.4796572055662439,
+afterschool,After school activity marketplace and booking management,0,0,Joanna Nazareno,,Afterschool,afterschool,After school activity marketplace and booking management,wip,35,9,0.2419705664938961,https://tokensale.afterschool.ae
+bitcoin-wallet,Bitcoin wallet on Eth platform,0,0,Rishav Chatterjee,,Bitcoin Wallet,bitcoin-wallet,Bitcoin wallet on Eth platform,live,91,14,0.14759207371377547,
+onyx,Distributed test driven software development,0,0,Zain Admani,"Kevin Jiang, Eric Nam, Richard Huynh, Neel Patel",ONYX,onyx,Distributed test driven software development,prototype,23,9,0.2643083828607853,http://projectonyx.io/
+smartwallet,Self-sovereign digital identity,0,0,Jolocom Team,,SmartWallet,smartwallet,Self-sovereign digital identity,prototype,44,23,0.5788835089817649,https://jolocom.com/
+escrowmyether,Escrow System,0,0,Cheung Ka Yin,Arrow222,EscrowMyEther,escrowmyether,Escrow System,prototype,78,34,0.40388224359533675,http://escrowmyether.com/
+ico-wizard,Create ICO token and crowdsales in 5 easy steps,0,0,Igor Barinov,,ICO Wizard,ico-wizard,Create ICO token and crowdsales in 5 easy steps,live,269,166,0.588077228145773,https://wizard.oracles.org
+indicoin,Social service platform for people to contribute socially,0,0,Varad Shambhawa,Vansh Bajaj,Indicoin,indicoin,Social service platform for people to contribute socially,wip,42,11,0.30260537586445124,https://www.indicoin.org.in/
+the-immortals,Upload a photo to the chain and be immortalized,0,0,Michael Yeates,,The Immortals,the-immortals,Upload a photo to the chain and be immortalized,live,830,499,0.6034868227912513,https://www.theimmortals.space/
+bloom,Credit scoring,0,0,Jesse Leimgruber,"Alain Meier, John Backus, Ryan Faber",Bloom,bloom,Credit scoring,wip,66,28,0.4032910845297308,https://hellobloom.io/
+ethsharp,Ethereum smart-contracts in C#,0,0,Jordan Andrews,Svarog,EthSharp,ethsharp,Ethereum smart-contracts in C#,wip,26,3,0.2045988904111686,
+ethrps,"Play Rock, Paper, Scissors Game",0,0,EthRPS Team,,EthRPS,ethrps,"Play Rock, Paper, Scissors Game",live,899,563,0.6267687973782534,http://ethrps.com
+uppcoin,Payment Gateway,0,0,Noellar Kappa,,UppCoin,uppcoin,Payment Gateway,wip,105,25,0.22825417961038347,https://www.uppcoin.com
+multigames,Casino and gaming platform,0,0,Eduardo Chapeta,,MultiGames,multigames,Casino and gaming platform,prototype,47,19,0.40078810157186556,http://www.multigames.mobi/crypto
+simple-vote,Voting platform,0,0,Julian Duque,,Simple Vote,simple-vote,Voting platform,demo,684,414,0.5978594046105286,https://julianduque.github.io/simple-vote/
+the-stacking-game,A game where you profit when someone raises your bet,0,0,Jesse Busman,,The Stacking Game,the-stacking-game,A game where you profit when someone raises your bet,live,341,204,0.6368942957201932,https://stackinggame.jesbus.com
+friend-in-debt,"A simple, powerful app for splitting bills among friends",0,0,Blockmason Team,,Friend in Debt,friend-in-debt,"A simple, powerful app for splitting bills among friends",prototype,346,198,0.5582438358565981,http://friendindebt.com
+foundation-manager,Allows multiple Eth addresses to represent a single identity,0,0,Blockmason Team,,Foundation Manager,foundation-manager,Allows multiple Eth addresses to represent a single identity,prototype,12,2,0.24688644495862855,https://blockmason.io/projects/foundation/
+prospectors,Multiplayer online real time economic strategy,0,0,Prospectors Team,,Prospectors,prospectors,Multiplayer online real time economic strategy,demo,85,45,0.5409183108007674,https://prospectors.io/
+foobet,Football betting service,0,0,Andrew Adam,,FooBet,foobet,Football betting service,live,856,518,0.5956160210174426,https://foo.bet
+keno,Lottery fair game,0,0,Dmitriy Shalimov,,KENO,keno,Lottery fair game,wip,36,11,0.34072325734602843,http://kenoethereum.blogspot.ba/pre-ico
+nodeth,Cloud Ethereum nodes,0,0,Joseph Ros,,NodETH,nodeth,Cloud Ethereum nodes,live,35,18,0.4086734360731719,https://www.nodeth.com/
+skrilla,"Licensed fully regulated, global esports betting brand",0,0,Nick Heaney,Damon Oudejans,Skrilla,skrilla,"Licensed fully regulated, global esports betting brand",prototype,58,25,0.4967438151754709,https://skrilla.com/lobby
+nu-earth-lotto,Proprietary exclusive range of new lottery games. 2 Games in 1,0,0,NU Entertainment,,NU Earth Lotto,nu-earth-lotto,Proprietary exclusive range of new lottery games. 2 Games in 1,wip,26,5,0.20385217796874144,https://nuentertainment.co/
+ponzi-unlimited,"Ponzi chain, test your luck and win ETH",0,0,Syland,,Ponzi Unlimited,ponzi-unlimited,"Ponzi chain, test your luck and win ETH",live,557,341,0.6201496973329387,https://ponzi-unlimited.herokuapp.com/
+my-wealth-map,Ethereum Geocaching,0,0,AK Tarik,,My Wealth Map ,my-wealth-map,Ethereum Geocaching,live,136,71,0.5396020608788744,http://www.wealthmap.io
+legatum,Stamping/storage of intellectual property and legal documents,0,0,Legatum Team,,Legatum,legatum,Stamping/storage of intellectual property and legal documents,wip,58,28,0.43447450864254306,http://legatum.io
+media-sifter,News aggregator to verify content,0,0,John Ferreira,Rytis Jakubauskas,Media Sifter,media-sifter,News aggregator to verify content,wip,75,40,0.5658476449029625,http://www.mediasifter.co/
+paratii,Conscious video player and distribution ,0,0,Felipe Sant'Ana,"Paulo Perez, Jelle Gerbrandy",Paratii,paratii,Conscious video player and distribution ,wip,45,19,0.3735684997393888,http://paratii.video/
+polymath,Polymath guides issuers through a token launch,0,0,Trevor Koverko,"Craig Sellars, Sukhveer Sanghera, Tosh Sharma",Polymath,polymath,Polymath guides issuers through a token launch,prototype,17,2,0.3215967844212053,https://polymath.network/
+the-0cean,"The 0cean is a API-first ERC20 Liquidity provider for DApps, Algorithmic/high frequency traders and anyone else looking for trustless token trading. In addition to our API, we're developing a beautiful, full-featured, web dashboard for easy manual trading and visualization.By using the matching strategy or 0x relayers, we're able to provide predictable, stable orderbooks that emulate the functionality of traditional exchanges.",0,0,The Ocean Team,,The 0cean,the-0cean,Relayer and liquidity provider,wip,83,14,0.27955637822568374,http://the0cean.com/
+humaniq,Mobile app develivering financial inclusion solutions,0,0,Humaniq Team,,Humaniq,humaniq,Mobile app develivering financial inclusion solutions,wip,27,12,0.4404744269562447,https://humaniq.com/
+diceybit,Gaming project with money share,0,0,DiceyBit Team,,DiceyBit,diceybit,Gaming project with money share,live,84,44,0.47497135202554464,https://diceybit.com/en/web/liveslot_dice/
+crowdtoken,ERC20 standard to help with CrowdCoin's tech,0,0,Andrew Kamal,,CrowdToken,crowdtoken,ERC20 standard to help with CrowdCoin's tech,wip,20,2,0.03916496870981931,
+wrio-internet-os,Platform for cloud and distributed mash-up apps ,0,0,Alexey Anshakov,,WRIO Internet OS,wrio-internet-os,Platform for cloud and distributed mash-up apps ,wip,8,1,0.0720874506210754,https://wrioos.com/
+research-publishing,Revenue sharing model for research publication at low cost,0,0,Shreyas Gune,,Research Publishing,research-publishing,Revenue sharing model for research publication at low cost,concept,30,8,0.2712577064314812,http://dappresearch.blogspot.in/2017/08/the-idea.html
+ens,Domain name service,0,0,ENS Team,,ENS,ens,Domain name service,wip,38,17,0.3787154427259215,https://ens.domains/
+radar,Tool adding seeking power to your existing wallet,0,0,Radar Team,,Radar,radar,Tool adding seeking power to your existing wallet,prototype,26,3,0.19479473463486346,https://radarrelay.com/
+maecenas,"Fine Art Gallery, art investing",0,0,Marcelo Garcia Marcil,"Miguel Neumann, Federico Cardoso",Maecenas,maecenas,"Fine Art Gallery, art investing",prototype,60,25,0.45376618396744123,https://www.maecenas.co/
+cent,Ask a question and offer a bounty for the best answer,0,0,Max Brody,Cameron Hejazi,Cent,cent,Ask a question and offer a bounty for the best answer,prototype,55,27,0.5979931310780021,https://cent.co/
+meme-factory,Create and trade provably rare digital assets,0,0,Simon de La Rouviere,,Meme Factory,meme-factory,Create and trade provably rare digital assets,wip,71,36,0.5633063394342681,https://memefactory.io/
+tits-lottery,Fully automated company running lottery,0,0,LateRider,,TITS Lottery,tits-lottery,Fully automated company running lottery,concept,73,27,0.3798948529881788,http://titscrypto.com/
+you-ve-got-eth,Send Ethereum to any email address,0,0,Kevin Owocki,"Keving Seagraves, Brent Kirkland, Paul Foley",You've Got ETH,you-ve-got-eth,Send Ethereum to any email address,live,85,19,0.19594936721920164,
+moviecredits,Movie industry credits with tokens,0,0,RCT7,DK2017,MOVIECREDITS,moviecredits,Payment system for the movie industry,live,228,127,0.5579388023635582,http://crypto7.biz/
+fibonzi,Ponzi scheme over Fibonacci series,0,0,Khyatti Reda,,Fibonzi,fibonzi,Ponzi scheme over Fibonacci series,live,151,83,0.554109401279304,https://www.fibonzi.com/
+fish,Buy and Sell ERC20 tokens,0,0,Fish Team,,Fish,fish,Buy and Sell ERC20 tokens,live,76,22,0.2521611561030344,
+slotthereum,Open source slot game,0,0,Emerson Estrella,,Slotthereum,slotthereum,Open source slot game,live,444,256,0.5694655613185289,https://slotthereum.github.io
+dpanel,Online panel provider,0,0,Francesco Rivaroli,,Dpanel,dpanel,Online panel provider,concept,14,3,0.2470265350050006,http://goo.gl/rN5b4B
+ethermetal,Currency and exchance platform,0,0,Gershon Bialer,Charles Jonath,EtherMetal,ethermetal,Currency and exchance platform,prototype,37,17,0.3061227827677357,http://www.ethermetal.com
+matchpay,"Simple, cheap and transparent multi-step secure payments",0,0,Federico Capello,,MatchPay,matchpay,"Simple, cheap and transparent multi-step secure payments",live,254,141,0.5895872329218836,http://www.matchpay.io/
+coinvoting,Community reviewing voting platform,0,0,Parag Arora,,coinvoting,coinvoting,Community reviewing voting platform,live,278,150,0.5102388394126495,https://coinvoting.github.io
+smart-student-id,Student identity using Ether and RFID,0,0,JM Erestain,,Smart Student ID,smart-student-id,Student identity using Ether and RFID,wip,54,12,0.19765874276422618,
+contrib,A transparent contribution platform for digital assets,0,0,Chad Folkening,Maida Barrientos,CONTRIB,contrib,A transparent contribution platform for digital assets,live,69,33,0.47038417455100334,https://crypto.contrib.com/
+ezether,Ether trading marketplace,0,0,Sumukh,"Quijano, Arseniy",Ezether,ezether,Ether trading marketplace,live,100,47,0.4530873575541534,http://ezether.com
+quantmd-ai,Medical AI services through crypto-token based ecosystem,0,0,Peter Kim,"Jack Lin, Jerry",QuantMD.ai,quantmd-ai,Medical AI services through crypto-token based ecosystem,wip,104,55,0.530448360479886,http://quantmd.ai
+bananafund,Mutual funds by smart contracts,0,0,Sheng,"Wenwei, Bing",Bananafund,bananafund,Mutual funds by smart contracts,demo,133,69,0.5201559611687978,http://www.bananafund.org/
+kstherest,Contract API,0,0,Joshua Howarth,Joseph Ros,ΞTHEREST,kstherest,Contract API,live,146,66,0.4336522653706726,https://etherest.io
+unolabo,Skills marketplace based on ERC20 UNLB token,0,0,Timur Galiev,Iskander Galiev,UNOLABO,unolabo,Skills marketplace based on ERC20 UNLB token,wip,29,9,0.3737215778751001,https://unolabo.com
+mooncatrescue,Release tradable collectibles and record ownership,0,0,ponderware,,MoonCatRescue,mooncatrescue,Release tradable collectibles and record ownership,live,167,91,0.5043425193637585,https://mooncatrescue.com/
+etta-games,Fun games explorer,0,0,The ETTA Games Team,,ETTA Games,etta-games,Fun games explorer,live,138,61,0.40502863240336445,http://ettagames.io/
+splyt,Infrastructure for fractional ownership of real-world assets,0,0,Cyrus,Jason,Splyt,splyt,Infrastructure for fractional ownership of real-world assets,wip,16,3,0.14072145324338936,http://spl.yt
+eth-market-dapp,Currency exchange for Ether,0,0,kvanstee,,eth_market_dapp,eth-market-dapp,Currency exchange for Ether,prototype,40,12,0.23993179754791572,http://128.199.144.211:8080
+cillionaire,Donation game with random beneficiary,0,0,Cillionaire Team,,Cillionaire,cillionaire,Donation game with random beneficiary,live,206,107,0.5430145477183321,http://cillionaire.win/
+peppo-casino-ethereum,Bet ether with a number between 1 and 10 and win ether,0,0,Merunas Grincalaitis,,Peppo Casino Ethereum,peppo-casino-ethereum,Bet ether with a number between 1 and 10 and win ether,prototype,65,32,0.5962236257434358,http://peppo.es
+circles,Earn circles by circulating quality content,0,0,Circles Team,,Circles,circles,Earn circles by circulating quality content,prototype,54,19,0.25669874967254214,https://circlesproject.io
+rouge,Demo coupon platform,0,0,Naira d'Arcollières,,Rouge,rouge,Demo coupon platform,wip,31,13,0.2667036761594345,http://demo.rouge.network/
+horizon-state,Voting and democratic tools,0,0,Jamie Skella,,Horizon State,horizon-state,Voting and democratic tools,live,156,89,0.5367786087003052,https://horizonstate.com
+dether,Peer-to-peer ether network,0,0,Hamid Benyahia,Mehdi Amari,Dether,dether,Peer-to-peer ether network,prototype,28,11,0.36029476344815614,https://dether.io/
+ethfinex,"Community hub for developers, traders and enthusiasts",0,0,Will Harbone,"Paolo Ardoino, Enrico Rubboli",Ethfinex,ethfinex,"Community hub for developers, traders and enthusiasts",live,99,45,0.45846914586480586,https://www.bitfinex.com/ethfinex
+docstamp,Record storage with secure hash and timestamp,0,0,Darshan Patil,,DocStamp,docstamp,Record storage with secure hash and timestamp,live,179,94,0.5130906518535155,https://docstamp.io/
+liquid,Convert ether to US dollars,0,0,ckgdesigns,,Liquid,liquid,Convert ether to US dollars,live,719,431,0.6169030179777356,https://liquify.0trust.us/
+ebets,Sports betting,0,0,Enrique,"Leonardo, Marola",Ebets,ebets,Sports betting,prototype,96,42,0.4677399031582539,https://ebets.ch/
+ice,"Self-adressed, single-delivery, block-time ether vault",0,0,Cubic Blue,,ICE,ice,"Self-adressed, single-delivery, block-time ether vault",live,79,36,0.48367319596149094,http://beta.cubic.blue/
+avalon,Group purchasing organization,0,0,Colin Hayes,"Alex Griffin, Jean-Paul Vasilières, Nathan Simich",Avalon,avalon,Group purchasing organization,concept,55,24,0.38189322520624924,https://avalon.nu/
+swipecrypto,Mobile lockscreen advertising,0,0,SwipeRich Pte Ltd,,SwipeCrypto,swipecrypto,Mobile lockscreen advertising,prototype,40,15,0.3520837583248553,https://www.swipecrypto.com
+miniwager,Win ether playing games,0,0,Nick Kearney,,MiniWager,miniwager,Win ether playing games,demo,107,51,0.4815518332888766,http://www.miniwager.com/
+the-sky-is-high-crowdfunding,Crowdfunding for open-source Energy Tech R&D,0,0,Mateusz Kujawski,,The Sky is High Crowdfunding,the-sky-is-high-crowdfunding,Crowdfunding for open-source Energy Tech R&D,wip,71,29,0.4925699139190976,https://www.theskyishigh.com
+dankcoin,Meme reward tool,0,0,dankcoinceo,,Dankcoin,dankcoin,Meme reward tool,live,195,108,0.5447945121726832,http://dankcoin.trade
+dice-im,A transparent provably fair dice game,0,0,Dice.IM Team,,Dice.IM,dice-im,A transparent provably fair dice game,demo,68,33,0.5692079128474725,https://dice.im
+quiknode,Run an Ethereum node in 10 minutes,0,0,QuikNode Team,,QuikNode,quiknode,Run an Ethereum node in 10 minutes,live,132,66,0.5479259777543927,https://quiknode.io
+tokenza,A community where people can raise funds for their projects,0,0,Vincent Fontaine,,Tokenza,tokenza,A community where people can raise funds for their projects,wip,33,9,0.2990819831923807,https://www.tokenza.com
+vuepay,Platform to deliver Ad revenue shares,0,0,Saurabh Bhola,Rohit Katyal,VuePay,vuepay,Platform to deliver Ad revenue shares,concept,34,10,0.256395393426777,http://vuepay.co/home/#vuepay
+eventchain,Smart Ticketing platform,0,0,Jonathan J Waller,,EventChain,eventchain,Smart Ticketing platform,wip,50,27,0.6386713495615172,https://eventchain.io
+recycletocoin,Cryptographic token reward for recycled plastic and metal,0,0,Donny Mcdonald,Krunal Soni,RecycleToCoin,recycletocoin,Cryptographic token reward for recycled plastic and metal,wip,69,30,0.43303302441363684,https://www.bcdc.online/recycletocoin
+pay2play,Wager settlement system,0,0,Disruptive Widgets,,Pay2Play,pay2play,Wager settlement system,prototype,39,15,0.5371900500766228,http://pay2play.io/
+xorrox,Tokenized land management,0,0,James Watson,,XORROX,xorrox,Tokenized land management,concept,32,14,0.5128184866274432,https://blockchain.rethink.bz/
+trakti,Cloud-based business negotiation and contract management,0,0,Trakti team,,Trakti,trakti,Cloud-based business negotiation and contract management,live,76,39,0.5600524516741681,http://www.trakti.com
+bitclave,Distributed smart-contracts for connecting consumers to businesses,0,0,Andrey Shashlov,"Emmanuel Owusu, Alex Bessonov",BitClave,bitclave,Distributed smart-contracts for connecting consumers to businesses,live,98,40,0.3976216163791757,https://www.bitclave.com/
+ibuildapp,Mobile network connecting mobile apps to dApps,0,0,Zemfira Arduvanova,"Michael Starkov, Sergey Lobanov",iBuildApp,ibuildapp,Mobile network connecting mobile apps to dApps,wip,34,13,0.23958823691296763,https://ibuildapp.io/
+life-lottery,100% fair lottery,0,0,FreeGeeks,,Life Lottery,life-lottery,100% fair lottery,live,2112,1369,0.6404513947373784,https://lifelottery.github.io/
+coinlaunch,"the first end-to-end ICO platform. CoinLaunch allows anyone to build, deploy and monetize compliant Initial Coin Offerings (ICO) though an easy to use web based service. \n\nThe platform focuses on three groups of cryptocurrency users including ICO creators, funders and promoters. The company provides a free and powerful Coin Creator that enables users to create their own Ethereum-based ICO. An integrated cryptocurrency funding system enables backers to easily fund various campaigns",0,0,Reuven Cohen,,CoinLaunch,coinlaunch,Initial coin offering platform for raising capital,live,226,124,0.5784231293011283,https://coinlaunch.market/
+umbrellacoin,Democratized insurance,0,0,Terry Tata,,UmbrellaCoin,umbrellacoin,Democratized insurance,wip,197,6,0.039665190288671014,
+ethcro,Create smart escrow contracts,0,0,Christophe Grant,,Ethcro,ethcro,Create smart escrow contracts,prototype,170,90,0.5471053269268481,https://ethcrodapp.0trust.us
+etherep,Reputation by address rating,0,0,Mike Shultz,,Etherep,etherep,Reputation by address rating,live,132,59,0.40360916808143554,https://www.etherep.com/
+bitok-dice,Live-slot dice game,0,0,Vladimir Muraviov,,Bitok Dice,bitok-dice,Live-slot dice game,live,168,86,0.48751024239807234,https://bitokdice.com
+crypto-speech,Store and retrieve messages on EVM,0,0,wanshun,,Crypto Speech,crypto-speech,Store and retrieve messages on EVM,live,178,90,0.4792242969335055,http://www.CryptoSpeech.com
+subdomain-ens,ENS Subdomain marketplace,0,0,admiralskanks,,Subdomain ENS,subdomain-ens,ENS Subdomain marketplace,prototype,31,5,0.1335876041456359,
+fundamenta,Model-driven integration platform,0,0,Ritz,"Hagmann, Waldis",Fundamenta,fundamenta,Model-driven integration platform,concept,46,17,0.28608763209275834,http://fundamenta.me
+postman,Third party mail delivery service,0,0,Christophe Grant,,Postman,postman,Third party mail delivery service,live,177,92,0.5185304565131915,https://postman.0trust.us
+ecochain,"Blockchain based investment hub and central project comparison tool, which directly connects investors to renewable energy projects around the world, allowing them to gain long-term ROI.",0,0,Gordon Cowan,Krunal Soni,EcoChain,ecochain,Investment Hub for renewable projects,wip,49,21,0.40208828234924276,https://bcdc.online
+honesty-token,A token that provides trust for peer-to-peer businesses,0,0,Henok Alem,Kevin Ackerman,Honesty Token,honesty-token,A token that provides trust for peer-to-peer businesses,wip,48,20,0.5456712481681321,http://focus26.com/repeasy
+house-punch-music,Based music platform,0,0,Seo Ick Kyoung,,House Punch Music,house-punch-music,Based music platform,demo,74,32,0.3996922657706125,http://www.housepunch.co.kr
+mwallet,Multicurrency wallet,0,0,Pavel Ozerov,,Mwallet,mwallet,Multicurrency wallet,concept,55,19,0.3400662378383627,https://www.mwallet.online
+korkscrew,End to end quality assurance of products,0,0,Abhiram,,korkscrew,korkscrew,End to end quality assurance of products,wip,11,1,0.09404923479679775,
+eth888-yi-tai-fang-888,First Asian-oriented provably fair Ethereum casino,0,0,Steve White,Gordan Tsui,ETH888 / 以太坊888,eth888-yi-tai-fang-888,First Asian-oriented provably fair Ethereum casino,demo,82,38,0.45515853804144746,https://www.eth888.io/
+wings-dao,Valuing and promoting ICOs with forecast markets and reputation,0,0,Oskin Povod Popov Stupurac Zynis,,WINGS DAO,wings-dao,Valuing and promoting ICOs with forecast markets and reputation,live,67,28,0.34895614426379334,https://www.wings.ai
+lottereum,Open source lottery,0,0,Emerson Estrella,,Lottereum,lottereum,Open source lottery,live,728,459,0.6103120887317806,https://lotthereum.github.io
+perpetual-dice,Try to outguess the contract. All the inputs are there,0,0,Alvin B,,Perpetual Dice,perpetual-dice,Try to outguess the contract. All the inputs are there,live,95,28,0.24756262908359097,
+let-s-get-it-done,Self commitment app for Status.im hackathon,0,0,Xavi Vives,,Let's get it done,let-s-get-it-done,Self commitment app for Status.im hackathon,prototype,15,1,0.16141023757387596,
+ultimate-unicorn-maker-machine,A contribution based governance system,0,0,Xavi Vives,,Ultimate unicorn maker machine,ultimate-unicorn-maker-machine,A contribution based governance system,wip,21,2,0.11575300573593715,
+ethermediation,Manage conflict resolution on the blockchain,0,0,Christopher De Nicolo,,EtherMediation,ethermediation,Manage conflict resolution on the blockchain,wip,22,0,0.016841616069350668,
+mass-requiem,A memorial smart contract.,0,0,Jacob Brown,,Mass Requiem,mass-requiem,A memorial smart contract.,concept,68,17,0.2876445159896076,http://www.massrequiem.io
+cryptopunks,Collectible 8-bit characters on the blockchain. ,0,0,Larva Labs,,Cryptopunks,cryptopunks,Collectible 8-bit characters on the blockchain. ,live,513,297,0.6028345889230862,http://www.larvalabs.com/cryptopunks
+etherappointment,Agree on an appointment,0,0,Christopher De Nicolo,,EtherAppointment,etherappointment,Agree on an appointment,wip,20,5,0.2905657678604466,
+ox,Enabling investors and speculators with financial tools,0,0,Darwin,,OX,ox,Enabling investors and speculators with financial tools,wip,50,20,0.4352799515922351,https://oxfina.com
+bits-digit,Social market economy,0,0,Kumar,,Bits Digit,bits-digit,Social market economy,prototype,95,49,0.5044421366295728,http://bitsdigit.com
+enjin-coin,Smart cryptocurrency for gaming,0,0,Maxim ​Blagov,Witek​ ​Radomski,Enjin Coin,enjin-coin,Smart cryptocurrency for gaming,wip,64,24,0.34069992815196504,https://enjincoin.io/
+ellcrys,Smart contract application building on existing technologies,0,0,Kennedy Idialu,Odion Olumhense,Ellcrys,ellcrys,Smart contract application building on existing technologies,wip,19,4,0.10201562656071264,https://ellcrys.co/
+doma,A platform for home ownership and distributed well-being,0,0,Marksym Rokmaniko,Enrico Zago,Doma ,doma,A platform for home ownership and distributed well-being,wip,90,40,0.5132106946351079,http://doma.city/#smart-contract
+givedirectly-lottery,Lottery sending a % of the bets to GiveDirectly,0,0,Anto,,GiveDirectly Lottery,givedirectly-lottery,Lottery sending a % of the bets to GiveDirectly,demo,64,14,0.16349700477179305,https://tranquil-lake-59361.herokuapp.com/
+block-store,A key-value data store (like JS localStorage),0,0,Kris Randall,,Block Store,block-store,A key-value data store (like JS localStorage),live,45,12,0.39485804246760786,
+aigang-network,Insurance for IoT using DAO and smart contracts,0,0,Reda,"Aidas, Augustas, Lukas",Aigang Network,aigang-network,Insurance for IoT using DAO and smart contracts,demo,112,20,0.2257969644084283,https://aigang.network
+coral,A fundraiser platform for tokens,0,0,Zeppelin Solutions,,Coral,coral,A fundraiser platform for tokens,wip,33,11,0.34142405160768313,https://coralfundraiser.com/?utm_source=medium&utm_medium=post&utm_campaign=IntroCoral
+mattereum,Smart contracts with the legal force of natural language contracts,0,0,Vinay Gupta,,Mattereum,mattereum,Smart contracts with the legal force of natural language contracts,concept,45,17,0.3239188913347308,http://internetofagreements.com/assets/MattereumDraftforPublicComment.pdf
+diplr,Registering intellectual property,0,0,Quinten De Swaef,,Diplr,diplr,Registering intellectual property,wip,104,56,0.5033458479690697,https://diplr.org
+omni-eshops,Online store creator - Create and share product catalogs,0,0,Lauro Cesar,,Omni Eshops,omni-eshops,Online store creator - Create and share product catalogs,wip,68,29,0.4508742704116705,https://www.omnieshops.com/dapp/
+gitcoin,Push open source forward,0,0,Kevin Owocki,,Gitcoin,gitcoin,Push open source forward,live,333,193,0.5629619716037164,https://gitcoin.co
+kiosk,E-commerce platform,0,0,Rich McAteer,Dan Kindler,Kiosk,kiosk,A protocol for building marketplaces,prototype,77,34,0.3976258248174895,http://www.kioskprotocol.com/
+consolecloud,Console sharing platform,0,0,Pho,Phum,ConsoleCloud,consolecloud,Console sharing platform,concept,34,2,0.09246330451695184,
+b-umbrella,Security sharing service,0,0,Konstantin Rovinskiy,Oleg Mikhailishin,B-Umbrella,b-umbrella,Security sharing service,concept,26,9,0.29093562353409275,https://drive.google.com/file/d/0B3G6GO7V7fnkQ3oxQkNqd1o5MG8/view
+hive-commons,A community of activists pooling collective resources into digital commons ,0,0,Luke Duncan,,Hive Commons,hive-commons,A community of activists pooling collective resources into digital commons ,concept,41,17,0.46950440617870187,http://hivecommons.org/
+securify,Formal verification of smart contracts,0,0,Securify Team,,Securify,securify,Formal verification of smart contracts,prototype,26,10,0.5025304329015778,http://securify.ch/
+guestbook,Contract guestbook for Web 3.0,0,0,Ola Holmström,,Guestbook,guestbook,Contract guestbook for Web 3.0,prototype,10,0,0.3079456944405941,
+numerai,Hedge fund built by a network of data scientist,0,0,Richard Craib,,Numerai,numerai,Hedge fund built by a network of data scientist,live,388,227,0.5751074137757836,https://numer.ai/
+swarm-fund,Converting financial assets from exclusive to inclusive,0,0,Joel Dietz,,Swarm Fund,swarm-fund,Converting financial assets from exclusive to inclusive,live,78,30,0.41697703097323946,https://www.swarm.fund/
+kin,Ecosystem of digital services for daily life,0,0,Ted Livingston,,Kin,kin,Ecosystem of digital services for daily life,wip,26,7,0.18027596662753684,https://kin.kik.com/
+passlfix,A peer-to-peer transportation system of objects,0,0,Frederic Vedrunes,,PASSLFIX,passlfix,A peer-to-peer transportation system of objects,live,170,82,0.5331863230443922,http://pacifics.org/
+slotnslot,"Slot machine platform, make your own slots",0,0,Team SlotNSlot,,SlotNSlot,slotnslot,"Slot machine platform, make your own slots",prototype,29,10,0.24027028030268097,http://www.slotnslot.com/
+vm-trace-vizualizer,Trace visualizer for contracts,0,0,Yoichi Hirai,,VM Trace Vizualizer,vm-trace-vizualizer,Trace visualizer for contracts,wip,13,0,0.01387471414026316,
+block-farm,Farming game,0,0,John Kuo,,Block Farm,block-farm,Farming game,prototype,194,103,0.5470083731478805,https://blockfarm.herokuapp.com/
+wandx,Financial markets for crypto-secured assets,0,0,Abhinav Ramesh,,WandX,wandx,Financial markets for crypto-secured assets,wip,54,25,0.4830863096793684,http://www.wandx.co
+pactum,CSC: Configurable Smart Contracts fronted by a great UX & UI,0,0,Matt Swezey,"Rich M., Mike A.",Pactum,pactum,CSC: Configurable Smart Contracts fronted by a great UX & UI,wip,59,28,0.478245324903634,https://pactum.io
+42wallet,"A simple and secure, client side HD wallet focused on UX",0,0,Vikram Rangnekar,,42Wallet,42wallet,"A simple and secure, client side HD wallet focused on UX",live,113,56,0.44384244334704437,https://42wallet.com
+sheth,A testing environment for contracts,0,0,nshou,,sheth,sheth,A testing environment for contracts,prototype,19,5,0.2633566533576445,https://bitbucket.org/nshou/sheth
+nottar-io,Notarise documents,0,0,Daniel Mermelstein,,Nottar.io,nottar-io,Notarise documents,live,495,292,0.596233038937856,https://nottar.io
+rex,Real estate free global listing network,0,0,Stephen King,Russel McLernon,REX,rex,Real estate free global listing network,wip,104,34,0.264033906278477,http://rexmls.com/
+harbour,Rebuilding Governance,0,0,Dean Eigenmann,Dylan Dewdney and Klajdi Ciraku,Harbour,harbour,Rebuilding Governance,wip,59,30,0.48451997091520244,https://harbour.tokenate.io/
+sonm,Supercomputer designed for general purpose computing,0,0,Sergey Ponomarev,,SONM,sonm,Supercomputer designed for general purpose computing,wip,39,6,0.19581725785297588,https://sonm.io/
+tenx,Connecting your blockchain assets for everyday use,0,0,Toby Hoenisch,"Michael Sperk, Paul Kitti, Julian Hosp",TenX,tenx,Connecting your blockchain assets for everyday use,live,149,77,0.4610825039419092,https://www.tenx.tech/
+aqua-rights,Water Rights,0,0,Cecil Richard Rogers,Kelly Jean Ames,AQUA Rights,aqua-rights,Water Rights,wip,72,29,0.3665888481707652,http://www.aquarights.com
+block-inspector,Monitoring of a specific smart contract,0,0,Zuehlke,,Block-Inspector,block-inspector,Monitoring of a specific smart contract,prototype,20,2,0.22339175389740618,
+ethponzi,A ponzi scheme,0,0,Miguel Beltran Sanz,,ETHPonzi,ethponzi,A ponzi scheme,live,805,484,0.6190066637326108,http://www.ethponzi.com/
+ethercheque,Cheque generator,0,0,EtherCheque,,EtherCheque,ethercheque,Cheque generator,live,141,72,0.4616198745153238,https://www.ethcheque.com/
+etherstatic,Easily publish static webpages or text,0,0,Jeremy Keeshin,,Etherstatic,etherstatic,Easily publish static webpages or text,prototype,69,33,0.551436965581254,http://etherstatic.com/
+grid,A distributed electricity provider and energy market,0,0,Alex Miller,"Karl Kreder, Mark D'Agostino",Grid+,grid,A distributed electricity provider and energy market,wip,93,43,0.44306372860519294,https://gridplus.io/
+dharma-protocol,An open-source protocol for peer-to-peer lending,0,0,Nadav Hollander,,Dharma Protocol,dharma-protocol,An open-source protocol for peer-to-peer lending,wip,87,44,0.5390587036908883,https://dharma.io/
+1protocol,To perform staking protocols,0,0,Axel Ericsson,"Zack lawrence, Tjaden Hess",1protocol,1protocol,To perform staking protocols,wip,27,4,0.3339010750627334,http://1protocol.com/
+domain-token,Domain marketplace for aftermarket sales,0,0,Ryan Colby,,Domain Token,domain-token,Domain marketplace for aftermarket sales,wip,23,7,0.3111858984729681,http://www.domaintoken.io
+0x,The protocol for trading tokens,0,0,Will Warren,Amir Bandeali,0x,0x,The protocol for trading tokens,wip,173,27,0.1733667533446737,https://www.0xproject.com/
+postoak,Create instant network portals,0,0,Hani Yakan,,PostOak,postoak,Create instant network portals,concept,23,5,0.21514096722345016,https://www.postoak.today
+ubitok-io,An exchange platform for trading tokens on-chain,0,0,Bonnag,,UbiTok.io,ubitok-io,An exchange platform for trading tokens on-chain,live,155,78,0.5654891740160134,https://ubitok.io
+airswap,A token trading ecosystem,0,0,Michael Oved,Don Mosites,AIRSWAP,airswap,A token trading ecosystem,prototype,50,20,0.4987881641545631,https://www.airswap.io/
+althea,"Create decentralized, cryptocurrency powered ISPs",0,0,Jehan Tremback,Justin Kilpatrick,Althea,althea,"Create decentralized, cryptocurrency powered ISPs",wip,58,27,0.41988143245630943,http://altheamesh.com/
+blockcat,Complex automated transactions,0,0,Graeme Douglas,"Eric Huang, Wade Penson",BlockCAT,blockcat,Complex automated transactions,wip,46,12,0.28981358965954973,https://blockcat.io/
+catallax,Democratic hypercatallaxy,0,0,Austin Fatheree,,Catallax,catallax,Democratic hypercatallaxy,concept,27,7,0.16646927016408608,http://catallax.info/
+decentralized-news-network,A fact-based political news platform curated by the community,0,0,Samit Singh,Dondrey Taylor,Decentralized News Network,decentralized-news-network,A fact-based political news platform curated by the community,prototype,160,89,0.5540904529162611,https://dnn.media/
+ether-wager,A over-the-counter exchange for CFD trading,0,0,Roman Brodetski,,Ether Wager,ether-wager,A over-the-counter exchange for CFD trading,prototype,26,9,0.2399088149413697,http://eth-wager.surge.sh/#
+kybernetwork,Allowing exchanges and conversion of digital assets,0,0,Loi Luu,"Yaron Velner, Victor Tran",KyberNetwork,kybernetwork,Allowing exchanges and conversion of digital assets,wip,32,9,0.2452239866809009,http://kyber.network/
+openanx,Decentralized Exchange,0,0,Ken Lo,"Hugh Madden, Dave Chapman, David Tee",OpenANX,openanx,Decentralized Exchange,wip,45,16,0.37675494057250086,https://www.openanx.org
+owlchain,A software for blockchain integration of production cycles,0,0,OBOOK HOLDINGS Inc.,,OwlChain,owlchain,A software for blockchain integration of production cycles,wip,30,9,0.4090418644826216,https://www.owlting.com/owlchain/
+proveq,A proof of qualia solution for token sales,0,0,Scott Lewis,Roni Davelman,proveq,proveq,A proof of qualia solution for token sales,wip,14,1,0.1759276755187851,https://proveq.io/
+streamr,Unstoppable data for unstoppable apps,0,0,Steamr,,Streamr,streamr,Unstoppable data for unstoppable apps,concept,31,12,0.2894788606578917,https://www.streamr.com/
+peername,Domain names,0,0,Vasil Tenchev,,PeerName,peername,Domain names,live,189,110,0.5600491735548704,https://peername.com/
+omegaone,A cheaper and safer way to trade cryptocurrencies and tokens,0,0,ConsenSys,,OmegaOne,omegaone,A cheaper and safer way to trade cryptocurrencies and tokens,concept,64,18,0.36850641448837385,https://omega.one/
+funfair,Casino game platform,0,0,Jez San,,FunFair,funfair,Casino game platform,demo,100,50,0.44583834302110836,https://funfair.io/
+macroverse,A shared procedural universe for blockchain games,0,0,Adam Novak,,Macroverse,macroverse,A shared procedural universe for blockchain games,prototype,36,11,0.2438997254894456,https://macroverse.io/
+smartex,"Accept digital money, receive any currency",0,0,Christopher Moore,,Smartex,smartex,"Accept digital money, receive any currency",live,321,182,0.5286347610893157,https://smartex.io/
+spankchain,An adult cam platform,0,1,Spanktoshi Nakabooty,,SpankChain,spankchain,An adult cam platform,prototype,403,239,0.6189854457871329,http://spankchain.com/
+curation-markets,Group coordination around shared goals and interests,0,0,Simon de la Rouviere,,Curation Markets,curation-markets,Group coordination around shared goals and interests,concept,20,7,0.37301656983535,https://docs.google.com/document/d/1VNkBjjGhcZUV9CyC0ccWYbqeOoVKT2maqX0rK3yXB20/mobilebasic
+wageth,"High stakes, high return king of the hill",0,0,josheth,,WagETH,wageth,"High stakes, high return king of the hill",live,172,87,0.5346324337641069,https://www.wageth.com/
+tokenfunder,Blockchain crowd funding,0,0,,,TokenFunder,tokenfunder,Blockchain crowd funding,concept,38,13,0.34110351486860785,http://www.tokenfunder.io/
+fundrequest,Funding contributions to the open source community,0,0,Karel Striegel,,FundRequest,fundrequest,Funding contributions to the open source community,wip,30,7,0.19876000860167847,https://fundrequest.io/
+nvo,Cryptcurrencies exchange,0,0,Yanni Braggui,,NVO,nvo,Cryptcurrencies exchange,wip,31,11,0.30328752081718596,http://nvo.io
+timebank,Store ETH and ERC20 tokens enforceably with a time lock,0,0,Isaac Ibiapina,,TimeBank,timebank,Store ETH and ERC20 tokens enforceably with a time lock,live,63,22,0.2980456473020417,https://timebank.tech/
+token-creation-service-erc20,Create your own Ethereum token with a Minereum transaction,0,0,Minereum Team,,Token Creation Service (ERC20),token-creation-service-erc20,Create your own Ethereum token with a Minereum transaction,live,194,101,0.5445160905798657,http://tokenservice.minereum.com/
+cofound-it,A distributed VC ecosystem for the distributed future,0,0,Jan Isakovic / Daniel Zakrisson,,Cofound.it,cofound-it,A distributed VC ecosystem for the distributed future,concept,23,7,0.39487706067489037,https://cofound.it/en/
+foam,New stockmarket for real estate ,0,0,Ryan John King,,FOAM,foam,New stockmarket for real estate ,concept,111,61,0.5487626576457906,http://www.foam.space/
+lost-ethereum,Recovery of provably Lost Ethereum as LostEthtokens,0,0,Matt Branton,,Lost Ethereum,lost-ethereum,Recovery of provably Lost Ethereum as LostEthtokens,live,173,93,0.4940946334333487,http://www.lostethereum.com/
+proof-of-existence-2-0-poet,"B2B tool to catalog, trade, and license creative assets.",0,0,BTC Labs,,Proof of Existence 2.0 (Poet),proof-of-existence-2-0-poet,"B2B tool to catalog, trade, and license creative assets.",prototype,99,51,0.48551953768994444,http://www.po.et
+resilience,Link the global financial network of daily transactions together,0,0,Anonymous,,Resilience,resilience,Link the global financial network of daily transactions together,concept,15,1,0.11462429044690564,
+upstairs,A reputation point system,0,0,Etherdesign,,Upstairs,upstairs,A reputation point system,wip,40,15,0.3474565078113439,http://upstairs.me
+indorse,Professional Network ,0,0,David Moskowitz,Gaurang Torvekar,Indorse,indorse,Professional Network ,concept,80,31,0.3107582328387747,https://app.indorse.io/login
+angular2-truffle-starter-dapp,"Write, compile and deploy smart contracts with Angular2 frontend",0,0,Nikhil Bhaskar,,Angular2 + Truffle Starter Dapp,angular2-truffle-starter-dapp,"Write, compile and deploy smart contracts with Angular2 frontend",prototype,88,8,0.0785545966239456,
+cryptofees,Compare ETH and BTC transaction fees for profitable price,0,0,Oleksandr Popov,,CryptoFees,cryptofees,Compare ETH and BTC transaction fees for profitable price,live,259,146,0.551782930310558,http://cryptofees.net
+anryze-distributed-network,Computer power network for speech recognition,0,0,Anryze,,ANRYZE Distributed Network,anryze-distributed-network,Computer power network for speech recognition,prototype,19,4,0.2578404667165782,https://www.anryze.com/
+guts,Fighting ticket fraud and secondary price inflation,0,0,GUTS BV,,Guts,guts,Fighting ticket fraud and secondary price inflation,prototype,18,5,0.39418233251207946,https://guts.tickets/
+eth-gas-station,Stats on ethereum gas,0,0,latetot,,ETH Gas Station,eth-gas-station,Stats on ethereum gas,live,219,123,0.5606398078199758,http://ethgasstation.info/
+etherchain,Ethereum stats and chain explorer,0,0,Etherchain,,Etherchain,etherchain,Ethereum stats and chain explorer,live,57,24,0.3771103383627586,https://etherchain.org/
+quickblocks,Monitoring and summarization of data for any Ethereum address,0,0,Great Hill Corporation,,Quickblocks,quickblocks,Monitoring and summarization of data for any Ethereum address,live,68,32,0.4900754751316516,http://quickblocks.io/
+weipoint,Search the decentralized web,0,0,Antonio Juliano,,Weipoint,weipoint,Search the decentralized web,prototype,74,33,0.3678151630690819,https://www.weipoint.com/
+curationmarkets,Trade popularity of Memes & Informations,0,0,Simon De La Rouviere,Gonçalo Sà / ConsenSys,CurationMarkets,curationmarkets,Trade popularity of Memes & Informations,wip,27,2,0.12315296821991362,
+gotcha,A simple and fair game to win Ethereum,0,0,Blockchain Manic,,GotCHa,gotcha,A simple and fair game to win Ethereum,live,2591,1650,0.6352626623651816,http://www.gotcha.fun
+mememarkets,Coupon-based continuous token model,0,0,Simon De La Rouviere,,mememarkets,mememarkets,Coupon-based continuous token model,wip,16,3,0.43168051519489026,
+punch-clock,A simple smart contract to keep track of in and out time.,0,0,Dat Nguyen,,Punch Clock,punch-clock,A simple smart contract to keep track of in and out time.,live,35,9,0.15382234702554054,
+the-ether-billboard,Advertisement billboard ,0,0,michelsonmorley,,The Ether billboard,the-ether-billboard,Advertisement billboard ,live,397,233,0.588270228616661,http://etherbillboard.com/
+todolist,Sample dapp - Create a simple to-do list,0,0,Beaudru Manuel,,ToDoList,todolist,Sample dapp - Create a simple to-do list,demo,52,16,0.33565083850380956,
+district0x,A collective of decentralized marketplaces and communities,0,0,district0x Project,,district0x,district0x,A collective of decentralized marketplaces and communities,wip,53,13,0.2963812370822622,https://district0x.io/
+ether-riche,Position yourself as a contributor,0,0,Stephen Holstein,,Ether Riche,ether-riche,Position yourself as a contributor,wip,8,0,0.13749013576130564,
+eth-social,Posting social events,0,0,Miguel Mota,,eth.social,eth-social,Posting social events,demo,93,48,0.5778495037938103,https://eth.social
+neverdie,Gamified job creator and virtual world infrastructure ,0,0,Jon NEVERDIE Jacobs,,NEVERDIE,neverdie,Gamified job creator and virtual world infrastructure ,prototype,83,45,0.5866569711814975,https://neverdie.com
+variabl,Derivatives exchange,0,0,VariabL Team / Consensys,,VariabL,variabl,Derivatives exchange,demo,48,19,0.3507278919182432,http://variabl.io/
+braid,Psycho thriller movie,0,0,Mitzi Peirone,,BRAID,braid,Psycho thriller movie,wip,39,17,0.4721378918422682,https://www.braidthemovie.com/
+share-charge,A platform for sharing electric car refuleing stations,0,0,,,Share&Charge,share-charge,A platform for sharing electric car refuleing stations,live,102,54,0.4476764374010061,https://shareandcharge.com/en/
+seglos,Spend your Ethereum without losing out on the future grow,0,0,Maytham Naei,,Seglos,seglos,Spend your Ethereum without losing out on the future grow,wip,39,13,0.2950076953848371,http://www.seglos.com/
+amply,Revolutionize early childhood development in Africa,0,0,,,Amply,amply,Revolutionize early childhood development in Africa,demo,60,20,0.2194133567680144,http://amply.tech/
+benefactory,Create groups for crowd philanthropy,0,0,Benefactory Team,,Benefactory,benefactory,Create groups for crowd philanthropy,demo,82,40,0.3912268151222932,http://www.benefactory.cc/
+hypergive,Fund secure digital food wallets for the homeless and hungry,0,0,Hypergive Team,,Hypergive,hypergive,Fund secure digital food wallets for the homeless and hungry,wip,54,23,0.34101302341,http://www.hypergive.com/
+beyond-the-void,Strategy and competitive game in space,0,0,Beyonnd the void Team,,Beyond The Void,beyond-the-void,Strategy and competitive game in space,live,156,84,0.5396276745693478,https://beyond-the-void.net/
+blockphase,Digital content distribution and management platform for virtual reality,0,0,Steven Austin,"DB Binutu, Vijay Patel",Blockphase,blockphase,Digital content distribution and management platform for virtual reality,prototype,26,9,0.2707491092440303,https://www.blockphase.com/
+virtue-poker,Virtual Poker,0,0,Jim Berry,,Virtue Poker,virtue-poker,Virtual Poker,wip,115,49,0.4298245532199234,https://virtue.poker/
+loanbolio,Money lending platform,0,0,Akash Sarda,,LoanBolio,loanbolio,Money lending platform,wip,85,10,0.0784977454134075,
+gate-in,Tracking of international shipments,0,0,Pedro Urdapilleta,,Gate in,gate-in,Tracking of international shipments,concept,36,10,0.23173436851096638,http://www.gate-in.com.ar
+hodlethereum,Proof-of-HODL platform,0,0,localethereum,,hodlethereum,hodlethereum,Proof-of-HODL platform,live,87,44,0.448085264004014,https://hodlethereum.com
+agrum,Vineyard ownership,0,0,Daniel Novy,,Agrum,agrum,Vineyard ownership,concept,51,23,0.42717453286967844,https://agrum.io/
+ethembedded,Computer built on embedded devices,0,0,John Gerryts,,EthEmbedded,ethembedded,Computer built on embedded devices,prototype,23,6,0.4824237954615925,http://ethembedded.com/
+reidao,Real Estate on the Blockchain,0,0,Kok Beng,"Darvin Kurniawan, David Chandra, Hendrik Tanjaya, TAN Wee Liang",REIDAO,reidao,Real Estate on the Blockchain,wip,201,108,0.5606072341288982,http://www.reidao.io/
+loftvr,Virtual Reality Arcades,0,0,LoftVR Team,,LoftVR,loftvr,Virtual Reality Arcades,prototype,125,61,0.5142770534715335,http://www.loftvr.io/
+sikoba,Money platform based on peer-to-peer IOUs,0,0,Aleksander Kampa,"Jean Lasar, Bok Khoo, Craig Sailor, Roland Kofler, Lisa Tan",Sikoba,sikoba,Money platform based on peer-to-peer IOUs,concept,30,10,0.2800531820913611,http://www.sikoba.com/
+token-factory,Issue and interact with Standard Token Contracts,0,0,Simon de la Rouviere / ConsenSys,,Token Factory,token-factory,Issue and interact with Standard Token Contracts,demo,54,19,0.27368297121819096,https://tokenfactory.surge.sh/
+acebusters,Acebusters is a decentralized poker platform made by obsessive poker and cryptography fans. We strive to create Acebusters as a decentralized application (Dapp) which will offer the service of dealing cards and settling bets. The open and borderless nature of blockchain will allow players from all over the world to connect and create the largest poker liquidity pool seen to date.,0,0,Johann Barbie,Helge Wieding,Acebusters,acebusters,Poker platform,live,457,309,0.7159100300253004,http://www.acebusters.com
+homeparte,Real Estate Crowdfunding ,0,0,HomeParte,,HomeParte,homeparte,Real Estate Crowdfunding ,live,1914,1215,0.6329057396757585,https://www.homeparte.com
+smart-contract-and-settlement,A framework to build smart contract and settlement,0,0,Dan Tse,,Smart Contract and Settlement,smart-contract-and-settlement,A framework to build smart contract and settlement,concept,25,0,0.09800232738194359,
+basic-attention-token,Digital advertising,0,0,Brendan Eich,Brian Bondy,Basic Attention Token,basic-attention-token,Digital advertising,live,159,84,0.46163272951995665,https://basicattentiontoken.org/
+rocket-pool,Proof of stake (POS) pool,0,0,David Rugendyke,,Rocket Pool,rocket-pool,Proof of stake (POS) pool,prototype,36,17,0.5907394701633679,http://www.rocketpool.net
+coindash,A crypto based social trading platform,0,0,Alon Muroch,"Bar Yariv, Niv Muroch",CoinDash,coindash,A crypto based social trading platform,demo,249,134,0.5571791599437463,https://www.coindash.io/
+storj,Cloud storage,0,0,Alexander Leitner,"Gordon Hall, Tome Boshevski, Braydon Fuller, Bryan White, James Prestwich",Storj,storj,Cloud storage,live,500,297,0.5853411198592,https://storj.io/
+token-browser,An open financial system,0,0,Token Browser Team,,Token Browser,token-browser,An open financial system,live,724,429,0.5950181557610649,https://www.tokenbrowser.com/
+ethlend,Lending Platform,0,0,Stani Kulechov,,EthLend,ethlend,Lending Platform,live,1037,616,0.5659822805578919,https://ethlend.io/en/
+prism,Trustless asset portfolio market by ShapeShift,0,0,ShapeShift,,PRISM,prism,Trustless asset portfolio market by ShapeShift,demo,51,26,0.5015115774773707,https://prism.exchange/
+bancor,Built-in price discovery and a liquidity mechanism for tokens,0,0,Jonathan Endersby,,Bancor,bancor,Built-in price discovery and a liquidity mechanism for tokens,live,69,28,0.4583209308824341,https://www.bancor.network/
+infura,"Secure, stable, and scalable Ethereum and IPFS nodes.",0,0,E.G. Galano,"Herman Junge, Maurycy Pietrzak, Michael Wuehler / Consensys",Infura,infura,"Secure, stable, and scalable Ethereum and IPFS nodes.",live,84,40,0.38378582973227676,https://infura.io/
+ipfs,A peer-to-peer hypermedia protocol,0,0,Juan Benet,,IPFS,ipfs,A peer-to-peer hypermedia protocol,live,646,407,0.650479702817482,https://ipfs.io/
+livepeer,An open platform for live video broadcasting,0,0,Doug Petkanics,Eric Tang,Livepeer,livepeer,An open platform for live video broadcasting,wip,81,43,0.488340204359098,https://livepeer.org/
+myetherwallet,Ethereum wallet - client-side tool,0,0,MyEtherWallet Team,,MyEtherWallet,myetherwallet,Ethereum wallet - client-side tool,live,102,40,0.45746804272471486,https://www.myetherwallet.com/
+project-oaken,Autonomous IOT hardware and software,0,0,Hudson Jameson,"John Gerryts, James Johnson",Project Oaken,project-oaken,Autonomous IOT hardware and software,demo,105,59,0.5200616673511879,https://www.oakeninnovations.com/
+cryptoface,Create your own avatar,0,0,Anton Maximov,,CryptoFace,cryptoface,Create your own avatar,live,1623,1009,0.6107003972171577,http://face.crypto.camp/
+decentraland,"A virtual world owned by creators, powered by economic opportunity",0,0,Esteban Ordano / Dario Sneidermanis / Manuel Aráoz / Yemel Jardi,,Decentraland,decentraland,"A virtual world owned by creators, powered by economic opportunity",live,154,91,0.5664031260995471,https://decentraland.org/
+adchain,Open protocal for digital advertising,0,0,Jonathan Richard Ong / Miguel Mota,,adChain,adchain,Open protocal for digital advertising,wip,75,30,0.3419485870824391,https://www.adchain.com/
+ambisafe,Issue any types of assets and add it to cryptocurrency exchanges,0,0,,,Ambisafe,ambisafe,Issue any types of assets and add it to cryptocurrency exchanges,live,97,46,0.4885523899133116,https://www.ambisafe.co/
+blocksure,Blockchain powered insurance solutions,0,0,Ranvir Saggu / Joseph Goulden,,Blocksure,blocksure,Blockchain powered insurance solutions,concept,218,122,0.5424579046029326,https://www.blocksure.com/
+lemon-email-dapp,A security service webmail service,0,0,Devana Labs,,Lemon Email DApp,lemon-email-dapp,A security service webmail service,prototype,37,16,0.4436645868442007,http://dapp.lemon.email
+globalmiles,Frequent Flyer Program,0,0,GlobalMiles Tech.,,GlobalMiles,globalmiles,Frequent Flyer Program,live,616,361,0.562962090100949,http://www.globalmiles.com/en
+tipeth,Give money with just an url,0,0,Ryan Ghods,,tipeth,tipeth,Give money with just an url,live,695,422,0.6175035781893935,https://tipeth.com
+breath,framework for land acquisition and preservation,0,0,Swarm Fund,,Breath,breath,framework for land acquisition and preservation,wip,24,4,0.226405990709953,
+virtualgodown,Singular system for mapping supply and demand.,0,0,Virtualgodown Technologies,,Virtualgodown,virtualgodown,Singular system for mapping supply and demand.,wip,29,7,0.4295442442683824,http://www.virtualgodown.com
+minereum,Self mining smart contract,0,0,minereum,,minereum,minereum,Self mining smart contract,live,683,408,0.5884402359597319,https://www.minereum.com
+ponzico,Let's just cut to the chase,0,0,Josh Cincinnati,,PonzICO,ponzico,Let's just cut to the chase,live,178,93,0.4418946178166113,https://ponzico.win/
+one-million-words,Writing eternal message on blockchain for free,0,0,Blockchain Maniac,,One Million Words,one-million-words,Writing eternal message on blockchain for free,live,408,240,0.5635212974777618,http://onemillionwords.world/
+babel,"The First Decentralized E-Commerce Platform Made By The People, ",0,0,Bill,,Babel,babel,"The First Decentralized E-Commerce Platform Made By The People, ",concept,106,55,0.4579812415746505,http://joinbabel.com
+blocktix,Management of event tickets or passes,0,0,Blocktix,,BlockTix,blocktix,Management of event tickets or passes,wip,151,83,0.607249847159105,https://blocktix.io
+chronobank,Bringing an alternative in the recruitment industry,0,0,Edway Group Pty. Ltd,,ChronoBank,chronobank,Bringing an alternative in the recruitment industry,concept,103,49,0.46234897665709074,https://chronobank.io/
+cypherpoker,Texas hold'em poker game,0,0,Patrick Bay,,CypherPoker,cypherpoker,Texas hold'em poker game,demo,391,214,0.566771180169822,http://www.cypherpoker.org/
+dao-casino,Protocol for fair gambling,0,0,DAO.Casino,,DAO Casino,dao-casino,Protocol for fair gambling,concept,93,42,0.4736153817741228,https://dao.casino
+iex-ec,Distributed cloud computing,0,0,iEx.ec,,iEx.ec,iex-ec,Distributed cloud computing,concept,57,20,0.34617400261030057,http://iex.ec/
+matchpool,A platform creating human connections,0,0,Matchpool,,Matchpool,matchpool,A platform creating human connections,concept,55,23,0.5303565980894192,http://matchpool.co
+mediachain,Data solution for connecting applications to media and information,0,0,Mediachain,,MediaChain,mediachain,Data solution for connecting applications to media and information,prototype,41,16,0.5311312385523875,http://www.mediachain.io/
+neufund,Bridging the worlds of blockchain and venture capital,0,0,Neufund,,Neufund,neufund,Bridging the worlds of blockchain and venture capital,concept,84,36,0.357458526310718,http://www.neufund.org
+santiment,Crypto market intelligence platform,0,0,Shantiment PTE LTD,,Santiment,santiment,Crypto market intelligence platform,wip,52,21,0.3676101270190662,https://santiment.net/
+lendroid,Digital asset lending platform,0,0,Vignesh Sundaresan,,Lendroid,lendroid,Digital asset lending platform,concept,135,63,0.5131469477788768,https://lendroid.com
+mysterium,Unused network traffic rental and secure connection,0,0,Mysterium Network,,Mysterium,mysterium,Unused network traffic rental and secure connection,wip,35,16,0.5178791650055472,https://mysterium.network
+omise-go,Enabling financial inclusion for digital wallets,0,0,Omise,,Omise GO,omise-go,Enabling financial inclusion for digital wallets,concept,62,24,0.3133793954701963,https://omg.omise.co
+openzeppelin,Build secure smart contracts in Solidity,0,0,Smart Contracts Solutions,,OpenZeppelin,openzeppelin,Build secure smart contracts in Solidity,prototype,81,32,0.4520599010936557,https://openzeppelin.org/
+plutus,Tap & Pay using Bitcoin and Ether at NFC-enabled terminals,0,0,Plutus Team,,Plutus,plutus,Tap & Pay using Bitcoin and Ether at NFC-enabled terminals,wip,22,9,0.2614987781136225,https://plutus.it
+edgeless,Casino game based on crowdsale,0,0,Edgeless Team,,Edgeless,edgeless,Casino game based on crowdsale,concept,64,23,0.44114565050358934,https://www.edgeless.io/
+iconomi,Your connection to the distributed economy,0,0,ICONOMI Inc.,,ICONOMI,iconomi,Your connection to the distributed economy,prototype,49,14,0.2957481914090609,https://www.iconomi.net/
+singulardtv,"A Blockchain Entertainment Studio, Smart Contract Rights Management Platform and Video On-Demand Portal",0,0,SingularDTV,,SingularDTV,singulardtv,"A Blockchain Entertainment Studio, Smart Contract Rights Management Platform and Video On-Demand Portal",concept,44,17,0.23096399697743406,https://singulardtv.com/
+starbase,Crowdfund your rocket idea by issuing and selling tokens,0,0,Starbase PTE Ltd,,Starbase,starbase,Crowdfund your rocket idea by issuing and selling tokens,wip,78,30,0.4515415642795352,https://starbase.co
+civil,Radically open journalism,0,0,Matthew Iles,,Civil,civil,Radically open journalism,wip,135,73,0.5195356191606135,http://joincivil.com
+eth-hodler,A simple contract helping holders to lock their funds,0,0,Currency Tycoon,,Eth Hodler,eth-hodler,A simple contract helping holders to lock their funds,live,290,152,0.5169993951294778,https://www.ethhodler.org/
+vkson,Software auditing marketplace,0,0,VΞON INÐUSTRIES,,VΞON,vkson,Software auditing marketplace,wip,38,12,0.3993481859775278,http://veondao.info
+giveth,Charitable donations and actions,0,0,Griff Green,,Giveth,giveth,Charitable donations and actions,live,255,150,0.5259829448922978,http://giveth.io
+aragon,Create and manage DAOs,0,0,Luis Cuende,,Aragon,aragon,Create and manage DAOs,prototype,102,37,0.38002578478723653,https://aragon.one
+cccoin,"Image creation, curation, and sharing incentivization network",0,0,Mediachain Labs,,CCCoin,cccoin,"Image creation, curation, and sharing incentivization network",live,121,61,0.44257343847908726,http://cccoin.mediachain.io
+qchain,Online advertising and analytics platform,0,0,Team Mastodon,,Qchain,qchain,Online advertising and analytics platform,prototype,98,47,0.5982082352642819,http://qchain.co/
+medicalservices-patient,Share medical information between parties with Smart contract.,0,0,CoolBitX Technology,,MedicalServices-Patient,medicalservices-patient,Share medical information between parties with Smart contract.,wip,52,9,0.18187905952399722,
+demon,Cognitive computing and game development,0,0,Emolition,,demon,demon,Cognitive computing and game development,concept,36,12,0.4422243065842398,http://www.emolition.com
+userfeeds,Content ranking system for communities,0,0,Maciej Olpinski,,Userfeeds,userfeeds,Content ranking system for communities,demo,51,22,0.48917212258476966,http://userfeeds.io/
+xcontract,A web app user interface to run live smart contracts,0,0,James Sangalli,,xcontract,xcontract,A web app user interface to run live smart contracts,live,473,289,0.5921327777176288,https://xcontract.herokuapp.com/
+bbiller,Double entry accounting,0,0,Bbiller,,Bbiller,bbiller,Double entry accounting,concept,69,36,0.4812660833349345,http://bbiller.com
+digon,Contract creation between healthcare providers and patients,0,0,Plan A Health Consulting Ltd,,Digon,digon,Contract creation between healthcare providers and patients,concept,79,36,0.4609900524600092,https://plan-a-health.net/Digon_Project/
+imtoken,Light-weight smart digital wallet,0,0,Consenlabs,,imToken,imtoken,Light-weight smart digital wallet,live,91,37,0.44417200806508716,https://token.im/
+probiquery,Personalized Education,0,0,Amiya Behera,,Probiquery,probiquery,Personalized Education,demo,185,101,0.494043251602175,https://rebrand.ly/probiquery
+smart-market-protocol,Marketing and trade functions,0,0,Kaula Inc.,,Smart Market Protocol,smart-market-protocol,Marketing and trade functions,demo,18,4,0.3344173977155444,
+charitychain,Inspire your friends by doing an outstanding action,0,0,Charitychain.io,,Charitychain,charitychain,Inspire your friends by doing an outstanding action,wip,53,25,0.5634606547070958,https://charitychain.io/
+myblockchaincorner,Buy your own html tile and be the sole owner,0,0,raycar5,,Myblockchaincorner,myblockchaincorner,Buy your own html tile and be the sole owner,live,200,114,0.5775699216929574,http://myblockchaincorner.com/
+appii,Online profile and credentials for employement,0,0,APPII,,APPII,appii,Online profile and credentials for employement,prototype,49,20,0.48328839493505765,https://www.appii.io
+chasm,Secure multi-party cloud backup solution,0,0,Alex Grinman,,Chasm,chasm,Secure multi-party cloud backup solution,prototype,73,33,0.3561905053484184,https://alexgr.in/chasm
+web3console,Easy and secure transaction platform,0,0,etherworld.co,,web3console,web3console,Easy and secure transaction platform,prototype,24,1,0.0970527173976961,
+pick-3,Lottery Draw,0,0,Christophe Grant,,Pick 3,pick-3,Lottery Draw,live,416,239,0.5136156135033642,https://winether.online
+eth-world-chain,Word building game,0,0,transcendlabs.in,,Eth World Chain,eth-world-chain,Word building game,live,348,209,0.5358416329987867,http://ethwordchain.com
+cryptoderivatives-market,Ether/token exchange contract market,0,0,Bok Consulting Pty Ltd,,CryptoDerivatives.Market,cryptoderivatives-market,Ether/token exchange contract market,live,232,131,0.5918483623317438,https://cryptoderivatives.market/
+univereum,Electronic voting in universities,0,0,Alex Bazhanau,,Univereum,univereum,Electronic voting in universities,wip,46,10,0.14746916516196187,
+trustlines-network,Permissionless mobile payments based on people powered money,0,0,brainbot technologies,,Trustlines Network,trustlines-network,Permissionless mobile payments based on people powered money,prototype,48,19,0.428128826472902,http://trustlines.network/
+ethbadge,Identity verification using Ethereum Name Service (ENS),0,0,JoseMPM Productions,,EthBadge,ethbadge,Identity verification using Ethereum Name Service (ENS),prototype,95,47,0.5431567356239245,https://github.com/js0p/EthBadge
+dentacoin,Global dental industry,0,0,Dentacoin Foundation,,Dentacoin,dentacoin,Global dental industry,live,269,151,0.6340858460669949,http://dentacoin.com
+status-open-bounty,Github bounty bot,0,0,Status Holdings Pte Ltd,,Status Open Bounty,status-open-bounty,Bounty Based Collaboration,prototype,28,10,0.4858030613684677,https://openbounty.status.im/
+eth-iban-validator,Smart contract for IBAN validation with check digits,0,0,Mickael Valmier,,eth-iban-validator,eth-iban-validator,Smart contract for IBAN validation with check digits,live,44,19,0.44192244984333434,https://github.com/mickaelvalmier
+dao-ipci,"DAO operating, sutaining and developing carbon markets",0,0,IPCI,,DAO IPCI,dao-ipci,"DAO operating, sutaining and developing carbon markets",live,42,15,0.425234219763736,http://ipci.io
+tokenninja,ERC20 token management system ,0,0,TokenNinja,,TokenNinja,tokenninja,ERC20 token management system ,prototype,38,14,0.3690918827098784,http://tokenninja.com
+projectlive,Collaborative problem-solving Issue,0,0,MundoPM,,ProjectLIVE,projectlive,Collaborative problem-solving Issue,wip,44,18,0.28459261363319377,http://projectlive.mundopm.com.br
+lotto,"Simple, provably-fair, secure lottery",0,0,DeviateFish,,Lotto,lotto,"Simple, provably-fair, secure lottery",prototype,258,138,0.5222252538834437,https://github.com/DeviateFish/Lotto
+lunyr,Crowdsourced encyclopedia with reward system,0,0,Lunyr,,Lunyr,lunyr,Crowdsourced encyclopedia with reward system,live,345,206,0.5625111356245497,https://lunyr.com
+gold-auction,Daily settled auction for easy exchange of tokens,0,0,CodeTract,,Gold Auction,gold-auction,Daily settled auction for easy exchange of tokens,prototype,38,13,0.37120279931083094,https://gcteth.codetract.io
+ethereanmind,A voting platform to capture the sentiments/concerns of ethereans,0,0,Conrad Barski,,EthereanMind,ethereanmind,A voting platform to capture the sentiments/concerns of ethereans,prototype,68,29,0.4611452668655051,http://ethereanmind.com
+trekmiles,Fitness Motivation App + Currency + Community,0,0,David,,TrekMiles,trekmiles,Fitness Motivation App + Currency + Community,live,346,206,0.5795799454520837,http://www.trekmiles.com
+ethplorer,"Ethereum token viewer. Tokens for investors, Widgets and API",0,0,Everex,,Ethplorer,ethplorer,"Ethereum token viewer. Tokens for investors, Widgets and API",live,77,36,0.5042567022298579,https://ethplorer.io/
+decypher-tv,Screencasts for developers,0,0,Decypher Media,,Decypher TV,decypher-tv,Screencasts for developers,live,137,74,0.5671416474556824,http://decypher.tv/series/ethereum-development
+stackexchange-bounty,Bounties for StackExchange questions,0,0,Oraclize,,StackExchange Bounty,stackexchange-bounty,Bounties for StackExchange questions,prototype,40,17,0.4498967405241983,http://dapps.oraclize.it/stackexchange-v2/#/stackexchange-v2/
+youtube-contract,Automated escrow for youtubers and their sponsors,0,0,Oraclize,,Youtube contract,youtube-contract,Automated escrow for youtubers and their sponsors,demo,284,165,0.586825574326584,http://dapps.oraclize.it/youtube-escrow/
+anonymousvoting,E-voting with maximum voter privacy,0,0,Patrick McCorry,,AnonymousVoting,anonymousvoting,E-voting with maximum voter privacy,prototype,274,154,0.5465993715231183,https://eprint.iacr.org/2017/110.pdf
+pray4prey,Aquarium game,0,0,Julia Altenried,Stefan Höller,Pray4Prey,pray4prey,Aquarium game,live,950,583,0.6162163800681592,http://pray4prey.com/
+proof-of-identity,Onchain identity verification,0,0,Oraclize,,Proof of Identity,proof-of-identity,Onchain identity verification,prototype,124,61,0.4491539452281356,http://dapps.oraclize.it/proof-of-identity/
+ethpassport,Decentralized Traveler,0,0,Michael Dela Cuesta,,EthPassport,ethpassport,Decentralized Traveler,concept,124,65,0.5026805705169282,https://github.com/mdcuesta/EthPassport
+smart-identity,Smart ID for verifying identity credentials for communication,0,0,Deloitte,,Smart Identity,smart-identity,Smart ID for verifying identity credentials for communication,prototype,382,213,0.5698968503892036,https://www.deloitte.co.uk/smartid/
+blockcapsule,Time Capsule,0,0,BlockCapsule Developers,,BlockCapsule,blockcapsule,Time Capsule,wip,53,21,0.3241512773979676,http://blockcapsule.com
+pass-dao,A DAO for reduced financial services,0,0,Frederic,,Pass DAO,pass-dao,A DAO for reduced financial services,live,110,57,0.5313915719182087,http://forum.passdao.org/
+idex,Distributed exchange made of smart contracts,0,0,Decentralized Capital,,IDEX,idex,Distributed exchange made of smart contracts,live,374,217,0.5801782613595006,http://idex.market/
+crop-insurance,Insurance payment in case bad weather damages your crop harvest,0,0,Etherisc GmbH,,Crop Insurance,crop-insurance,Insurance payment in case bad weather damages your crop harvest,prototype,115,65,0.49529045228545054,https://crop.etherisc.com
+etherisc-social-insurance,Social insurance based on group p2p assessment,0,0,Etherisc GmbH,,Etherisc Social Insurance,etherisc-social-insurance,Social insurance based on group p2p assessment,concept,53,18,0.4592365563688388,https://govhack.etherisc.com
+blocklog-xyz,Blogging platform,0,0,monkeyscage,,BLOCKLOG.xyz,blocklog-xyz,Blogging platform,live,203,119,0.6065966441755926,http://blocklog.xyz
+thot,Blog generator,0,0,monkeyscage,,THOT,thot,Blog generator,live,175,96,0.49421859864878354,http://thot.blocklog.xyz
+auctionhouse,Auction platform for on-chain assets,0,0,Doug Petkanics,Eric Tang,AuctionHouse,auctionhouse,Auction platform for on-chain assets,prototype,179,93,0.5148863875791838,http://auctionhouse.dappbench.com
+blockjack,Blackjack gambling game,0,0,Voltaireth,WhySoS3rious,Blockjack,blockjack,Blackjack gambling game,live,680,412,0.5957163115630819,http://blockjack.io
+first-blood,An eSports reward platform,0,0,Joe,Zack,First Blood,first-blood,An eSports reward platform,live,146,76,0.5201981565942001,https://app.firstblood.io/
+oasisdex,User interface for Maker Market contracts,0,0,MakerDAO,,OasisDex,oasisdex,User interface for Maker Market contracts,live,470,275,0.6138444321725571,https://oasisdex.com/
+flight-delays-suck,Get instant payout in case your flight is late,0,0,Etherisc GmbH,,Flight Delays Suck,flight-delays-suck,Get instant payout in case your flight is late,live,426,260,0.6041222504759699,https://fdd.etherisc.com
+wetrust,Rotating savings and credit association,0,0,WeTrust,,WeTrust,wetrust,Rotating savings and credit association,prototype,162,91,0.501347360083706,https://www.wetrust.io/
+swarm-city,Commerce platform for trading,0,0,Bernd Lapp,,Swarm City,swarm-city,Commerce platform for trading,live,292,164,0.5951953050425862,https://swarm.city
+ethlance,Job Market Platform,0,0,Matus Lestan,,Ethlance,ethlance,Job Market Platform,live,1031,633,0.6200062363768809,http://ethlance.com/
+gnosis,Prediction market platform,0,0,Consensys / Gnosis Team,,Gnosis,gnosis,Prediction market platform,live,1800,1161,0.6576539186622046,http://gnosis.pm
+musicoin,Solution for musicians to license their works direclty,0,0,Berry Labs,,Musicoin,musicoin,Solution for musicians to license their works direclty,prototype,124,61,0.5019519192516493,http://musicoin.org
+ethmail-tech,Secure mail,0,0,Steven Ireland,,Ethmail.tech,ethmail-tech,Secure mail,prototype,121,60,0.4809187097838935,http://ethmail.tech
+drago,Hedge fund and social trading,0,0,Gabriele Rigo,,Drago,drago,Hedge fund and social trading,prototype,59,22,0.4507548871876675,http://rigoblock.com/
+smartpool,Mining pool for existing cryptocurrencies,0,0,Loi Luu,,SmartPool,smartpool,Mining pool for existing cryptocurrencies,wip,52,22,0.47851543712895206,http://smartpool.io/
+alice,Charity donations transparancy platform,0,0,Alice SI,,Alice,alice,Charity donations transparancy platform,prototype,52,17,0.3458227309335117,http://www.alice.si
+etherplay,Skill games,0,0,wighawag,,Etherplay,etherplay,Skill games,live,546,327,0.5967428472242611,http://etherplay.io/
+theethereumlottery,Lottery Dapp which solves problem of random numbers,0,0,HashFairGames,,TheEthereumLottery,theethereumlottery,Lottery Dapp which solves problem of random numbers,live,46,8,0.17091308589787244,
+vega-fund,Venture funding platform,0,0,GKVH,WPR,Vega Fund,vega-fund,Venture funding platform,demo,109,54,0.5936936947954079,http://vega.fund
+the-million-ether-homepage,Advertising platform,0,0,Peter Porobov,,The Million Ether Homepage,the-million-ether-homepage,Advertising platform,live,940,587,0.6445820779482485,http://bit.ly/2hP14VX
+dealmate,Escrow smart contract between two parties with an intermediary,0,0,Gleb Nazarkin,,DealMate,dealmate,Escrow smart contract between two parties with an intermediary,prototype,39,14,0.3822528025462586,http://dealmate.io
+one-million-ether-page,Trading Pixels,0,0,Alfons Machata,,One Million Ether Page,one-million-ether-page,Trading Pixels,live,199,115,0.5779037034030566,http://onemillionetherpage.com
+ethergit,Incentivized open source software development,0,0,Miles Albert,,EtherGit,ethergit,Incentivized open source software development,wip,133,60,0.4990834653409392,http://ethergit.io/
+verity,Bringing trust to the internet via collaborative communities,0,0,Matt Goldenberg,,Verity,verity,Bringing trust to the internet via collaborative communities,wip,39,16,0.38492016806364376,http://www.verity.site
+chainy-link,"Create Irreplaceable short URLs, messages, links to file",0,0,Everex,,Chainy.Link,chainy-link,"Create Irreplaceable short URLs, messages, links to file",live,212,115,0.5272609799421453,https://chainy.link/
+pixelmap,"Buying, selling and owning tiles on a map",0,0,Ken Erwin,,PixelMap,pixelmap,"Buying, selling and owning tiles on a map",live,101,47,0.4934498948968588,
+time-clock,Service delivery and labor hire contracts,0,0,Daniel Moscufo,,Time Clock,time-clock,Service delivery and labor hire contracts,prototype,28,2,0.01914345536051989,
+smart-lease,Store apartment leases,0,0,Marie Leaf,,Smart-Lease,smart-lease,Store apartment leases,concept,27,1,0.04451835526047057,
+costring,Upload Images,0,0,Manuel,,Costring,costring,Upload Images,live,391,232,0.6170056261789961,https://costring.co
+godzillion,"Marketplace where people vote, fund and trade startups",0,0,Rodrigo Sainz,Cristobal Pereira,godzillion,godzillion,"Marketplace where people vote, fund and trade startups",live,683,412,0.5783998651985013,https://godzillion.io 
+decentralized-ether-mixer,Ether mixer contract,0,0,Yaron Velner,,Decentralized Ether Mixer,decentralized-ether-mixer,Ether mixer contract,live,65,33,0.4804344755851792,https://dmixer.github.io/
+blockcdn,A CDN trading platform,0,0,Tony Long,,BlockCDN,blockcdn,A CDN trading platform,live,128,64,0.5059135052181124,http://www.blockcdn.org
+pricegeth,Price API for smart contracts (Oracle),0,0,Shayan Eskandari,,PriceGeth,pricegeth,Price API for smart contracts (Oracle),prototype,10,1,0.16286470039230772,
+tokencard,Smart contract powered debit card,0,0,Monolith Studio,,TokenCard,tokencard,Smart contract powered debit card,prototype,117,56,0.5051083179189885,http://tokencard.io/
+donamin,Donamin is a conscious dealmarket with online marketing tools.,0,0,Zoltán Tápi,,Donamin,donamin,Conscious dealmarket with online marketing tools,wip,25,10,0.6065836409411766,http://donamin.com
+rockpaperscissors,Rock Paper Scissors game with helpful interface,0,0,HashFairGames,,RockPaperScissors,rockpaperscissors,Rock Paper Scissors game with helpful interface,live,176,57,0.33914574325090735,
+emojillionaire,Lottery with emoji theme,0,0,Matus Lestan,,emojillionaire,emojillionaire,Lottery with emoji theme,live,266,159,0.6567584013832275,http://emojillionaire.com/
+interdimensional-jukebox,A universal jukebox,0,0,controtie,,Interdimensional Jukebox,interdimensional-jukebox,A universal jukebox,demo,31,5,0.20597916034474492,
+grunstromjeton,Green energy consumption token issued based on natural energy,0,0,Thorsten Zoerner,,GrünStromJeton,grunstromjeton,Green energy consumption token issued based on natural energy,live,161,83,0.5137181727978428,https://stromstunde.de/
+free-ftopia,Converting SaaS businesses to decentralized organization,0,0,Phil,,Free Ftopia,free-ftopia,Converting SaaS businesses to decentralized organization,wip,52,18,0.3386738085725896,
+dte,Token Exchange,0,0,Yampi,,DTE,dte,Token Exchange,live,72,12,0.15747193285503833,
+transaction-relay,Enables transactions fees to be paid in any currency,0,0,iuri matias,,Transaction Relay,transaction-relay,Enables transactions fees to be paid in any currency,prototype,26,3,0.11388252050484626,
+crystal-mines,Win Ether by upgrading and working on your mine,0,0,Yampi,,Crystal Mines,crystal-mines,Win Ether by upgrading and working on your mine,live,85,17,0.2244794184753065,
+flight-assure,Short-term life assurance provider,0,0,Ai-London,,Flight Assure,flight-assure,Short-term life assurance provider,wip,60,20,0.4081539324803666,http://www.ai-london.com/
+melonport,A portal to asset management,0,0,Reto Trinkler,Mona El Isa,Melonport,melonport,A portal to asset management,live,215,119,0.5381526179891631,https://melonport.com/
+coakt,Raise more than money for start-ups,0,0,Nick Barba,Kevin Kriss,COAKT,coakt,Raise more than money for start-ups,wip,91,40,0.4867458043497496,http://www.coakt.com/
+war-on-ether,Programmable bots fighting for land,0,0,Kobi Gurkan,,War On Ether,war-on-ether,Programmable bots fighting for land,prototype,181,97,0.490228986335019,http://waronether.com/
+openrep,A solidity smart contract based reputation system with UI,0,0,James Sangalli,,OpenRep,openrep,A solidity smart contract based reputation system with UI,wip,79,31,0.4533489769412388,http://openrep.azurewebsites.net/
+cetas,Adaptive data intelligence,0,0,Algorythmix,,Cetas,cetas,Adaptive data intelligence,demo,65,26,0.4331938921944929,http://cetas.systems
+etherandom,"Off-chain secured, on-chain verifiable random number generation",0,0,Etherandom,,Etherandom,etherandom,"Off-chain secured, on-chain verifiable random number generation",live,142,76,0.4755732760882517,https://etherandom.com/
+ark,Open global coins database,0,0,MonkeysCage,,ARK,ark,Open global coins database,wip,40,13,0.2556333656545768,http://ark.monkeyscage.org/
+decentralized-capital,Government currency assets,0,0,Alex Wearn,,Decentralized Capital,decentralized-capital,Government currency assets,prototype,54,18,0.23572186579112717,http://www.decentralizedcapital.com/#/home
+outcomecoin,OutcomeCoin mints prediction market tokens,0,0,Etherboost,,OutcomeCoin,outcomecoin,OutcomeCoin mints prediction market tokens,unknown,20,1,0.1380438059199742,
+raiden-network,High speed asset transfers,0,0,brainbot technologies,,Raiden Network,raiden-network,High speed asset transfers,prototype,35,13,0.3870192745471448,http://raiden.network/
+hydrachain,Permissioned distributed ledger,0,0,brainbot technologies,,HydraChain,hydrachain,Permissioned distributed ledger,live,70,29,0.41391888196024734,http://www.brainbot.com/projects#hydrachain
+otlw-forum,A forum based on smart-contract documents,0,0,otlw,,otlw-forum,otlw-forum,A forum based on smart-contract documents,live,83,42,0.5053036893153159,http://otlw.co/forum/
+sustainy,Aims to help society and Earth by promoting sustainability,0,0,Jonathan Bean,,Sustainy,sustainy,Aims to help society and Earth by promoting sustainability,wip,39,14,0.3481577066080696,http://sustainy.org/
+the-pitts-circus-family-movie,First Ethereum funded movie,0,0,Ken Evil,,The-Pitts-Circus-Family-Movie,the-pitts-circus-family-movie,First Ethereum funded movie,live,79,39,0.5045368665749967,http://www.the-pitts-circus.com/Ethereum
+microtick,"Data streams or market prices, indexes and failure rates",0,0,Mark Jackson,,Microtick,microtick,"Data streams or market prices, indexes and failure rates",prototype,32,8,0.21118345809006558,http://www.microtick.com/
+etherdelta,Exchange platform,0,0,Etherboost,,EtherDelta,etherdelta,Exchange platform,live,170,90,0.46721094493969195,https://etherdelta.github.io/
+ethereum-lottery-io,"This lottery uses Bitcoin blocks to pick a winner. The deterministic nature of blockchains makes it challenging to provide a secure source of randomness. Bitcoin's longer block time and higher exchange rate ensure that this lottery can go to high jackpots without compromising security. Furthermore, anyone can easily double-check the result using nothing but a block explorer and some simple math.",0,0,Viktor Novak,,Ethereum Lottery .io,ethereum-lottery-io,Lottery fueled by Bitcoin blocks,live,294,163,0.5648374787074705,https://ethereumlottery.io/
+mountain-of-money,Collective deposit for interest-free loans,0,0,Austin Gross,Jan Ritsema,Mountain of Money,mountain-of-money,Collective deposit for interest-free loans,wip,88,37,0.39414404871768693,http://momey.org/
+register-eth,"Connects a Ethereum address to Reddit, Twitter, Email-addr.... It is a link between online identities and ether addresses",0,0,Shaun Schutte,,Register.eth,register-eth,"Connects an Ethereum address to Reddit, Twitter, Email",wip,26,3,0.37811636909594193,
+wallksth,The native Ethereum Android light client wallet,0,0,ligi,,WALLΞTH,wallksth,The native Ethereum Android light client wallet,prototype,112,45,0.4733241195944462,http://walleth.org/
+proof-of-github,KYC oracle validates and links your GitHub and eth address,0,0,Igor Barinov,,Proof of Github,proof-of-github,KYC oracle validates and links your GitHub and eth address,live,80,45,0.5497057768208731,http://proofofgithub.herokuapp.com
+etherization,Strategy Game,0,0,Vedran Kajic,,Etherization,etherization,Strategy Game,live,2623,1795,0.6797383473086134,http://www.bspend.com/etherization
+xapout,Consultancy services,0,0,Michael Kwaaitaal,,xapout,xapout,Consultancy services,concept,56,26,0.4017945302811734,http://xapout.com/
+ethernote,Promissory Note. Legal binding of esign contract & smart contract,0,0,Igor Barinov,,Ethernote,ethernote,Promissory Note. Legal binding of esign contract & smart contract,prototype,34,10,0.2568821841181273,http://ethernote.herokuapp.com/
+lava,Fair and secure smart tickets for music,0,0,LAVA team,,LAVA,lava,Fair and secure smart tickets for music,concept,75,37,0.4036920209907125,http://www.lavamovement.com/
+the-rouleth,Roulette chance game,0,0,WhySoS3rious,,The Rouleth,the-rouleth,Roulette chance game,live,429,255,0.5675952650014463,http://www.rouleth.com/
+ct-risk-placing,Commercial and speciality re(Insurance) placing platform,0,0,ChainThat,,CT Risk Placing,ct-risk-placing,Commercial and speciality re(Insurance) placing platform,prototype,55,25,0.5038222567840422,http://chainthat.com/insurance/
+otlw-assess,A framework for assessment in education,0,0,Jared Pereira,Saianeesh Keshav Haridas,otlw-assess,otlw-assess,A framework for assessment in education,demo,131,71,0.46601394351173686,http://otlw.co/
+zero-waste-advocacy,Community recycling resources management,0,0,Adbongo Group LLC,,Zero Waste Advocacy,zero-waste-advocacy,Community recycling resources management,wip,46,17,0.43502111723139364,http://www.zerowasteadvocacy.com/
+vdice,On-Chain betting game,0,0,vDice.io Dev. Team,,VDice,vdice,On-Chain betting game,live,154,83,0.4697764963166092,https://www.vdice.io/
+bithouse,House rental contract and equity distrubution.,0,0,Will,,BitHouse,bithouse,House rental contract and equity distrubution.,concept,188,99,0.5882255984412511,https://www.bithouse.io/
+rega,P2P insurance platform,0,0,Sergei Sevriugin,,ReGa,rega,P2P insurance platform,wip,105,43,0.3986214572521833,http://rega.site/
+slackcoin,Blockchain payments for Slack teams,0,0,Bryan Young,,SlackCoin,slackcoin,Blockchain payments for Slack teams,wip,80,41,0.501838115923187,http://www.amalgamatedhumanity.com/
+ethereum-lotto,Ethereum Lotto 50/50 draw,0,0,Rob,,Ethereum Lotto,ethereum-lotto,Ethereum Lotto 50/50 draw,wip,54,21,0.2901431034881764,http://ethereum-lotto.com/
+ethslurp,Data scraper for transactions and smart contracts,0,0,Great Hill Corporation,,EthSlurp,ethslurp,Data scraper for transactions and smart contracts,live,132,70,0.5406122899328187,http://www.ethslurp.com/
+otonomos,Online control panel for setting up and controling companies,0,0,Han Verstraete,,Otonomos,otonomos,Online control panel for setting up and controling companies,live,261,154,0.61412736567439,https://www.otonomos.com/
+voteholder,Reinvention of global governance on issues voting,0,0,Michael,,voteholder,voteholder,Reinvention of global governance on issues voting,concept,61,26,0.509448081384339,http://www.voteholder.org/
+akasha,Next-Generation social media network,0,0,AKASHA International,,AKASHA,akasha,Next-Generation social media network,prototype,183,103,0.5341897057120775,http://akasha.world/
+ethersim,Ethereum simulator for testing and development purposes,0,0,Iuri Matias,,EtherSim,ethersim,Ethereum simulator for testing and development purposes,live,26,4,0.10876156102411547,
+everex-transfer,"Cryptocash platform for remittance, payments, trading, lending",0,0,Everex,,Everex Transfer,everex-transfer,"Cryptocash platform for remittance, payments, trading, lending",live,273,151,0.5329425604350821,https://everex.one/
+trustery,Public Key Infrastructure and identity management system,0,0,Mustafa Al-Bassam,,Trustery,trustery,Public Key Infrastructure and identity management system,prototype,23,4,0.30422781958899725,
+etheramid,Social invitation game with reward,0,0,Etheramid,,Etheramid,etheramid,Social invitation game with reward,live,204,116,0.5286264649227689,http://etheramid.cloudapp.net/
+etherdesign,A.I. Design Dapp,0,0,Ed,,EtherDesign,etherdesign,A.I. Design Dapp,live,413,245,0.585861328785398,http://etherdesign.io/
+zonafide,A digital wallet for securing activities,0,0,Paul Worrall,Salena Worral,Zonafide,zonafide,A digital wallet for securing activities,prototype,22,4,0.2346936319336731,https://www.zonafide.net/
+kpcs-ethereum,The Kimberley Process certificate issuing process,0,0,Eric Schulte,,KPCS Ethereum,kpcs-ethereum,The Kimberley Process certificate issuing process,prototype,16,3,0.36082401965226363,
+eth-digger,Investment in GPU mining,0,0,ETH Digger,,ETH Digger,eth-digger,Investment in GPU mining,live,222,134,0.5742237659169753,http://ethdigger.com/
+proof-of-phone,KYC oracle validates and links your phone number and eth address,0,0,Igor Barinov,,Proof of Phone,proof-of-phone,KYC oracle validates and links your phone number and eth address,live,194,110,0.6293382857953905,https://www.proofofphone.com/
+btcrelay,A bridge between the Bitcoin blockchain & Ethereum smart contracts,0,0,Joseph Chow,,btcrelay,btcrelay,A bridge between the Bitcoin blockchain & Ethereum smart contracts,live,178,86,0.4835793274664733,http://btcrelay.org/
+last-is-me,Time based lottery,0,0,Riccardo Casatta,,Last is me!,last-is-me,Time based lottery,live,163,86,0.5667997664728972,http://lastis.me/
+myhealthirl,Maintain and control your health records,0,0,Ivan Jasenovic,,myHealthIRL,myhealthirl,Maintain and control your health records,wip,203,99,0.44467901585097064,http://www.myhealthirl.com/
+regis,Enables people and organizations register data,0,0,Great Hill Corporation,,Regis,regis,Enables people and organizations register data,wip,64,33,0.5350081081640815,https://regis.nu/
+decibel-live,Noise monitoring and compensation settlement,0,0,Decibel.LIVE,,Decibel.LIVE,decibel-live,Noise monitoring and compensation settlement,prototype,50,20,0.47085399455663296,http://www.decibel.live
+maker,An organization minimizing volatility of token Dai,0,0,MakerDAO / Nexus Dev,,Maker,maker,An organization minimizing volatility of token Dai,wip,43,16,0.3370931929010501,https://makerdao.com/
+kato,Concierge for finding flights and hotels globally,0,0,Donovan Walter-Girout,,Kato,kato,Concierge for finding flights and hotels globally,wip,55,16,0.36081519732771433,
+esports-bets,Decentralized ESports betting platform,0,0,Masaca,,ESports Bets,esports-bets,ESports betting platform,live,701,424,0.6153986623960681,http://eth.csgobets.org/
+thankscoin,Reputation ranking and monetary reward of Internet users,0,0,ThanksCoin,,ThanksCoin,thankscoin,Reputation ranking and monetary reward of Internet users,prototype,71,33,0.5896323739512358,https://www.thankscoin.org/
+rubix,Blockchain-powered enterprise and government solutions,0,0,Rubix by Deloitte / Jinius Tu,,Rubix,rubix,Blockchain-powered enterprise and government solutions,live,185,84,0.4081123884087556,http://rubixbydeloitte.com/
+watchdog,Watchdog framework,0,0,zyzioziom,,Watchdog,watchdog,Watchdog framework,concept,72,33,0.4932902561472043,https://patrykkalinowski.com/blog/2016/03/26/blockchain-as-a-decentralized-watchdog.html
+daers,Autonomous emergency reporting system,0,0,mizutaka,,DAERS,daers,Autonomous emergency reporting system,concept,19,2,0.10088915405284189,
+etherli-multi-sig-wallet,Wallet with 2FA and mist support,0,0,Ben Chan / Mason Borda,,EtherLi Multi-Sig Wallet,etherli-multi-sig-wallet,Wallet with 2FA and mist support,prototype,14,3,0.1849942226035355,https://www.ether.li/
+uport,Open-source identity system for people and businesses,0,0,ConsenSys,,uPort,uport,Open-source identity system for people and businesses,live,218,120,0.5199458553632875,https://www.uport.me/
+balanc3,Triple entry accounting,0,0,Consensys / Jeff Ward,Christian Lundkvist,Balanc3,balanc3,Triple entry accounting,wip,73,29,0.46621531334323013,http://balanc3.net/
+blockapps,Scalable enterprise blockchain platform,0,0,Consensys / Kieren James-Lubin,,BlockApps,blockapps,Scalable enterprise blockchain platform,live,110,52,0.48202477418582723,http://blockapps.net/
+melange,Marriage of internet protocols to internet policy,0,0,Algorythmix,,Melange,melange,Marriage of internet protocols to internet policy,concept,19,5,0.3583671932023405,http://melnge.github.io/Melange/
+grid-singularity,Energy data exchange platform,0,0,Ewald Hesse,,Grid Singularity,grid-singularity,Energy data exchange platform,concept,96,45,0.4570135406268468,http://gridsingularity.com/
+arcade-city,Uber-like to connect drivers to customers,0,0,Arcade City,,Arcade City,arcade-city,Uber-like to connect drivers to customers,prototype,154,82,0.589512595615903,https://arcade.city/
+bitnation,A Blockchain Jurisdiction,0,0,BITNATION,,BITNATION,bitnation,A Blockchain Jurisdiction,demo,58,25,0.40585212658257,http://www.bitnation.co/
+governmental,Educational ponzi game simulating governmental finances,0,0,g0vernmental,,GovernMental,governmental,Educational ponzi game simulating governmental finances,live,67,11,0.2477762761677748,
+transactive-grid,Peer to peer home produced energy trading,0,0,ConsenSys / Martin Lundfall,,Transactive Grid,transactive-grid,Peer to peer home produced energy trading,demo,160,81,0.5162958784055831,http://transactivegrid.net/
+ujo-music,Rebuilding the music industry on the blockchain,0,0,ConsenSys / Jesse Grushack,,Ujo Music,ujo-music,Rebuilding the music industry on the blockchain,live,826,509,0.6122327287149671,https://ujomusic.com/
+dns2,Potential improvement on the DNS in the form of a smart contract,0,0,Sinking Point,,dns2,dns2,Potential improvement on the DNS in the form of a smart contract,wip,21,5,0.2963844356818298,http://sinking-point.github.io/dns2/
+etheroll,Dice game,0,0,James,,Etheroll,etheroll,Dice game,live,934,584,0.6255316670834894,http://etheroll.com/
+lksth,Mobile wallet connecting users with dApps,0,0,Inzhoop,,LΞTH,lksth,Mobile wallet connecting users with dApps,prototype,62,27,0.3901180886697535,https://www.inzhoop.com/
+status,An open source mobile client ,0,0,Jarrad Hope,,Status,status,An open source mobile client ,prototype,139,63,0.41986927351422404,http://status.im/
+profksth,A smart contracts ecosystem for a resource-based digital economy,0,0,Roberto Valenti,,PROFΞTH,profksth,A smart contracts ecosystem for a resource-based digital economy,wip,64,26,0.3938295389407674,http://www.profeth.org/
+etherwall,GUI desktop wallet,0,0,Aleš Katona,,EtherWall,etherwall,GUI desktop wallet,live,98,46,0.5309973499634967,http://etherwall.com
+etherapis,Micropayment platform for generic API calls,0,0,Péter Szilágyi,Jeffrey Wilcke,EtherAPIs,etherapis,Micropayment platform for generic API calls,prototype,46,17,0.47918810754265445,http://etherapis.io/
+solether,Autonomous electrical energy entities for solar power,0,0,Francesco 'makevoid',KristinaB,Solether,solether,Autonomous electrical energy entities for solar power,prototype,70,30,0.39981892480760045,http://solether.mkvd.net/
+ethereum-computation-market,Verifiable off-chain computation for ethereum contracts,0,0,Piper Merriam,,Ethereum Computation Market,ethereum-computation-market,Verifiable off-chain computation for ethereum contracts,prototype,14,4,0.3036883506370683,http://www.ethereum-computation-market.com/
+icebox,Lightwallet-powered cold storage solution,0,0,Christian Lundkvist / ConsenSys,,Icebox,icebox,Lightwallet-powered cold storage solution,live,30,5,0.08822209393283292,
+insureth,Flight insurance,0,0,Thomas Bertani,"Kristina Butkute, Francesco Canessa",InsurETH,insureth,Flight insurance,prototype,128,62,0.5133975951543126,http://insureth.mkvd.net/
+ethhypedns,Resolve Hyperboria/CJDNS ipv6 addresses via etherid.org contact,0,0,slothbag,,EthHypeDns,ethhypedns,Resolve Hyperboria/CJDNS ipv6 addresses via etherid.org contact,live,12,1,0.11124198608950486,
+dapple,Smart contract package manager and build tool,0,0,Nexus Dev,,Dapple,dapple,Smart contract package manager and build tool,live,208,92,0.4886230728969403,https://dapple.readthedocs.io/
+dappsys,Solidity contract system framework,0,0,Nexus Dev,,dappsys,dappsys,Solidity contract system framework,live,83,42,0.4769495051996793,https://dappsys.readthedocs.io/
+kyc-chain,"KYC onboard for banking, blockchains, and DAPPS",0,0,KYC-Chain Ltd.,,KYC-chain,kyc-chain,"KYC onboard for banking, blockchains, and DAPPS",live,203,111,0.5235017987873736,http://kyc-chain.com/
+etherforum,An experimental distributed forum ,0,0,Matias Insaurralde,,etherforum,etherforum,An experimental distributed forum ,wip,75,35,0.4860501471848253,http://matiasinsaurralde.github.io/etherforum/
+decentralized-twitter,Microblogging with 160 characters,0,0,Jahn Bertsch,,Decentralized Twitter,decentralized-twitter,Microblogging with 160 characters,prototype,75,14,0.1429606502547617,
+iudex,Smart contract based reputation system,0,0,Alex Beregszaszi,Thomas Bertani,iudex,iudex,Smart contract based reputation system,prototype,71,31,0.40097983874236603,http://iudex.github.io
+metamask,MetaMask brings Ethereum to your web browser,0,0,Aaron Davis & Dan Finlay,,MetaMask,metamask,MetaMask brings Ethereum to your web browser,wip,74,29,0.3202359093970479,https://metamask.io/
+etherid,Ethereum Name Registrar,0,0,Alexandre Naverniouk,,EtherID,etherid,Ethereum Name Registrar,live,323,190,0.5999712409038548,http://www.etherid.org/
+tinyoracle,Simple data provider toolkit,0,0,Alex Beregszaszi,,TinyOracle,tinyoracle,Simple data provider toolkit,prototype,25,3,0.14902540164688793,
+randao,A DAO working as RNG,0,0,Youcai,,RANDAO,randao,A DAO working as RNG,wip,16,4,0.37840730241639436,http://randao.org
+blockchain-backpack,Valve item economy,0,0,Dr. Blue,,Blockchain Backpack,blockchain-backpack,Valve item economy,concept,48,19,0.42102918399263717,http://www.blockchainbackpack.org/
+browser-solidity,Browser based solidity contract compiler & runtime,0,0,chriseth & d11e9,,Browser-Solidity,browser-solidity,Browser based solidity contract compiler & runtime,live,166,80,0.4596366570318398,http://ethereum.github.io/browser-solidity/
+proof-of-individuality,anti-sybil token,0,0,d11e9,,proof-of-individuality,proof-of-individuality,anti-sybil token,wip,29,8,0.45935095067334464,http://proofofindividuality.tk
+taxeme,A component of the resilience taxation system,0,0,Johan Ngyren,,Taxeme,taxeme,A component of the resilience taxation system,wip,21,2,0.13291163827197022,
+freemyvunk,Monitize your video game junk,0,0,R. Tyler Smith,,FreeMyVunk,freemyvunk,Monitize your video game junk,concept,51,19,0.47752884935504225,http://www.freemyvunk.com/
+tokenescrow,Contract for running an escrow service for Ethereum token-contracts,0,0,Alex Beregszaszi,,TokenEscrow,tokenescrow,Contract for running an escrow service for Ethereum token-contracts,wip,21,1,0.009444456091747096,
+etherdice,Provably fair and escrowed gambling,0,0,vnovak,,Etherdice,etherdice,Provably fair and escrowed gambling,live,219,126,0.5336821215065922,https://etherdice.io/
+string,Autonomous and open financial cloud for financial assets,0,0,Dominic Williams,,String,string,Autonomous and open financial cloud for financial assets,concept,79,33,0.3320010397884013,http://string.technology/
+ampliative-art,A cooperative and empowering art community,0,0,Adrian Onco,,Ampliative Art,ampliative-art,A cooperative and empowering art community,concept,97,39,0.3925539341676418,http://www.ampliativeart.org
+shapeshift-bot,Contracts to transfer Ether to Bitcoin,0,0,Alex Beregszaszi,,Shapeshift Bot,shapeshift-bot,Contracts to transfer Ether to Bitcoin,prototype,96,49,0.5838962234906813,http://axic.github.io/shapeshiftbot/
+publicvotes,A publicly verifiable voting system,0,0,Dominik Schiener,,PublicVotes,publicvotes,A publicly verifiable voting system,prototype,332,201,0.5668141886240521,http://publicvotes.org/
+oraclize,Data carrier between APIs and dApps,0,0,Thomas Bertani,,Oraclize,oraclize,Data carrier between APIs and dApps,live,103,45,0.4854959521913518,https://www.oraclize.it/
+safemarket,P2P Marketplace,0,0,Aakil Fernandes,,SafeMarket,safemarket,P2P Marketplace,prototype,300,161,0.5507917808130188,http://safemarket.github.io/
+etheria,Virtual world and crypto-real estate,0,0,fivedogit,,Etheria,etheria,Virtual world and crypto-real estate,prototype,183,100,0.5886795004682426,http://etheria.world/
+spore,A platform for directed memetic evolution trough attention economy,0,0,Denis Erfurt,,Spore,spore,A platform for directed memetic evolution trough attention economy,prototype,53,21,0.3146818811073423,http://spore.memhub.io/
+grove,"Fast, efficient, queryable storage for contracts",0,0,Piper Merriam,,Grove,grove,"Fast, efficient, queryable storage for contracts",live,64,24,0.3775453315875748,https://ethereum-grove.readthedocs.org/
+populus,Smart-contract development framework,0,0,Piper Merriam,,Populus,populus,Smart-contract development framework,prototype,51,16,0.28490137588080655,https://populus.readthedocs.org/
+ethereum-datetime,Date and time tools,0,0,Piper Merriam,,ethereum-datetime,ethereum-datetime,Date and time tools,prototype,28,8,0.3971451491656445,
+lightwallet,Lightweight JS Wallet for Node and the browser,0,0,Chris Lundkvist / ConsenSys,,LightWallet,lightwallet,Lightweight JS Wallet for Node and the browser,prototype,30,8,0.18053614703905985,
+slock-it,Developing the universal sharing network ,0,0,Christoph Jentzsch,,Slock It,slock-it,Developing the universal sharing network ,prototype,66,28,0.5288127211440046,http://slock.it/
+meteor-embark,Streamlined integration for Meteor,0,0,Chris Hitchcott,,meteor-embark,meteor-embark,Streamlined integration for Meteor,prototype,15,0,0.12420695133360185,
+colony,Building companies online with a community,0,0,AttaAtta,,Colony,colony,Building companies online with a community,prototype,96,37,0.3940314242595968,http://colony.io/
+dynamis,Peer to peer insurance,0,0,Joshua Davis,,Dynamis,dynamis,Peer to peer insurance,wip,198,98,0.48306333923263783,http://www.dynamisapp.com/
+ethereum-alarm-clock,Schedule contract calls,0,0,Piper Merriam,,Ethereum Alarm Clock,ethereum-alarm-clock,Schedule contract calls,live,528,314,0.5904678488125501,http://www.ethereum-alarm-clock.com/
+project-basil,Vulnerability feed management,0,0,Harsh Patel,,Project Basil,project-basil,Vulnerability feed management,prototype,14,2,0.06366909696446864,
+auditdog,Immutable repository of software security audits,0,0,Roman Plášil,,AuditDog,auditdog,Immutable repository of software security audits,prototype,27,6,0.25917131665031484,http://quiark.github.io/AuditDog/
+universal-dapp,A universal interface for contracts,0,0,d11e9,,Universal ÐApp,universal-dapp,A universal interface for contracts,live,288,164,0.556012503585044,http://d11e9.github.io/universal-dapp/
+avatar,Distributed profile registry,0,0,d11e9,,Avatar,avatar,Distributed profile registry,prototype,51,19,0.4614184601634983,http://d11e9.github.io/avatar/
+etherpot,Provably Fair Lottery,0,0,Aakil Fernandes,,EtherPot,etherpot,Provably Fair Lottery,prototype,73,32,0.30633009131004146,http://etherpot.github.io/
+occams-run,All things being equal (50/50),0,0,d11e9,,Occams Run,occams-run,All things being equal (50/50),prototype,55,21,0.6080710259261084,http://d11e9.github.io/Occams-Run/
+piratechest,Peer to peer magnet discovery,0,0,d11e9,,PirateChest,piratechest,Peer to peer magnet discovery,prototype,34,13,0.34346553559521625,http://piratechest.github.io/
+content,Community content platform,0,0,d11e9,,content,content,Community content platform,wip,46,11,0.3537758574737789,
+ethos,An Ethereum Browser,0,0,d11e9,,Ethos,ethos,An Ethereum Browser,prototype,35,3,0.14583923918815708,
+raikoth,Governance experiment,0,0,moridinamael,,Raikoth,raikoth,Governance experiment,concept,14,2,0.17127332553266736,
+etherlisten,Realtime transaction visualizer,0,0,Kobi Gurkan,,EtherListen,etherlisten,Realtime transaction visualizer,live,58,30,0.6306642299976994,http://www.etherlisten.com/
+ethercrawler,A dungeon crawler and challenge market,0,0,Peter Borah / ConsenSys,,EtherCrawler,ethercrawler,A dungeon crawler and challenge market,demo,80,17,0.2081257928621156,
+frozeth,Ethereum tools for the offline machine,0,0,Kobi Gurkan,,Frozeth,frozeth,Ethereum tools for the offline machine,prototype,12,1,0.1130683779521163,
+studbook,Tinder for horses,0,0,Andres Junge / ConsenSys,,studbook,studbook,Tinder for horses,demo,79,14,0.14975409368960937,
+smart-exchange,Exchange service,0,0,Marek Kotewicz,,Smart-Exchange,smart-exchange,Exchange service,prototype,63,26,0.37309158251967206,http://debris.gitbooks.io/ethchange/content/
+augur,Prediction Market,0,0,Jack Peterson,Joey Krug,Augur,augur,Prediction market to create an accurate forecasting tool,prototype,172,70,0.3595997866806934,http://www.augur.net/
+cosmo,Meteor dapp for building and vetting solidity contracts,0,0,Nick Dodson,,Cosmo,cosmo,Meteor dapp for building and vetting solidity contracts,prototype,39,12,0.3340591720497641,http://cosmo.to/
+etherparty,Smart Contracts deploying the Cloud,0,0,Lisa Cheng,Whit Jack,Etherparty,etherparty,Smart Contracts deploying the Cloud,concept,43,18,0.5407965393548819,http://etherparty.io/
+weifund,Crowdfunding Platform,0,0,Nick Dodson,,WeiFund,weifund,Crowdfunding Platform,prototype,237,132,0.5339721874911916,http://weifund.io/
+embark,Framework to develop and deploy dApps,0,0,Iuri Matias,,Embark,embark,Framework to develop and deploy dApps,live,44,12,0.29739115378234426,
+etherscan,Blockchain explorer,0,0,Matt Tan,,EtherScan,etherscan,Blockchain explorer,live,102,42,0.36941082147631715,http://etherscan.io/
+ether-camp,Blockchain explorer,0,0,Roman Mandeleil,,Ether.Camp,ether-camp,Blockchain explorer,live,98,47,0.5448261542669025,https://live.ether.camp/
+notareth,Ethereum based notary service,0,0,Maran Hidskes,,NotarEth,notareth,Ethereum based notary service,live,693,416,0.5983484632675952,http://notareth.herokuapp.com/
+vevue,Bringing Google Street View to life,0,0,Thomas Olson,,Vevue,vevue,Bringing Google Street View to life,concept,182,90,0.5073235212511117,http://www.vevue.com/
+cyber-fund,"Make digital investments comprehensible, accessible, easy and safe",0,0,Dima Starodubcev,,cyber•Fund,cyber-fund,"Make digital investments comprehensible, accessible, easy and safe",concept,58,23,0.4059445079459285,https://cyber.fund/
+powerball,"Powerball"-style lottery,0,0,Peter Borah,,PowerBall,powerball,"Powerball"-style lottery,wip,44,5,0.11404882522593784,
+weilend,P2P Lending,0,0,Massi Terzi,,WeiLend,weilend,P2P Lending,wip,68,15,0.16364668665887738,
+truffle,Development framework,0,0,Tim Coulter,,Truffle,truffle,Development framework,prototype,91,44,0.44396333148074935,http://truffleframework.com/
+climatecoin,Coins for those who offset carbon,0,0,Dennis Peterson,,ClimateCoin,climatecoin,Coins for those who offset carbon,concept,55,25,0.511389590017197,https://climatecolab.org/contests/2015/shifting-attitudes--behavior/c/proposal/1313601
+eyepi,Crowdsourced medicine,0,0,Bryan Hill,,EyePi,eyepi,Crowdsourced medicine,prototype,109,56,0.5594067598557816,http://eyepi.com/
+blocknet,Inter-blockchain application platform,0,0,Dan Metcalf & Arlyn Culwick,,Blocknet,blocknet,Inter-blockchain application platform,concept,75,29,0.4191686230540885,http://blocknet.co
+boardroom,Board election and voting,0,0,Nick Dodson,,BoardRoom,boardroom,Board election and voting,wip,54,26,0.5941701024448139,http://boardroom.to/
+digixglobal,Gold storage,0,0,Antony Eufemio,Chris Hitchcott,DigixGlobal,digixglobal,Gold storage,live,318,184,0.5877323442321954,https://www.dgx.io/
+guarante-emarket,Peer-to-peer marketplace for guarantees,0,0,Bruno Ricardo Ferreira,,Guarante eMarket,guarante-emarket,Peer-to-peer marketplace for guarantees,concept,58,24,0.3807192615698903,https://communities.cyclos.org/garanteemarket
+ethermarket,Marketplace,0,0,Iuri Matias,Ryan Casey,EtherMarket,ethermarket,Marketplace,wip,43,8,0.1827999681780697,
+swarm,Distributed File Storage,0,0,Daniel Nagy,,Swarm,swarm,Distributed File Storage,wip,73,10,0.22983112767560093,
+crowdesto,Crowdfunded political movements,0,0,Sam Collins,,Crowdesto,crowdesto,Crowdfunded political movements,concept,25,9,0.3656865771929934,http://crowdesto.com
+mintchalk,In-browser smart contract building and publishing,0,0,James Alexander Levy,,MintChalk,mintchalk,In-browser smart contract building and publishing,prototype,38,13,0.43961546335271057,http://www.mintchalk.com/
+pointnurse,Healthcare platform with nurses available for patients,0,0,Cyrus Maaghul,,PointNurse,pointnurse,Healthcare platform with nurses available for patients,concept,137,67,0.44518795743484396,http://www.pointnurse.com/
+golem,Distributed computation,0,0,Julian Zawistowski,"Piotr ‘Viggith’ Janiuk, Andrzej Regulski, Aleksandra Skrzypczak",Golem,golem,Distributed computation,prototype,81,39,0.4989905912771252,https://golem.network/
+ethereum-prediction-market,Prediction market,0,0,Atomrigs,,Ethereum Prediction Market,ethereum-prediction-market,Prediction market,demo,41,16,0.3698147807640305,http://atomrigs.blogspot.com
+cubespawn,Modular Manufacturing,0,0,James Jones,,CubeSpawn,cubespawn,Modular Manufacturing,concept,54,22,0.41247276194750787,http://main.cubespawn.com/
+pokereum,Poker game platform,0,0,Oladapo Ajayi,"Patrick Mazzota, Juan Pastas",Pokereum,pokereum,Poker game platform,concept,70,28,0.4043309793094072,http://www.pokereum.io/
+project-groundhog,Social Network,0,0,Conrad Barski,,Project Groundhog,project-groundhog,Social Network,demo,436,249,0.6289985194360584,https://www.youtube.com/watch?v=WFeJYv3PSaI
+provenance,Supply chain transparency and traceability ,0,0,Jessi Baker,Jutta Steiner,Provenance,provenance,Product Origin Tracking,live,60,25,0.467701634974843,https://www.provenance.org/
+atomic-swap,Atomic cross-chain trading,0,0,Zack Hess,,atomic-swap,atomic-swap,Atomic cross-chain trading,wip,29,2,0.199038657334623,
+cryptocoinwatch,Crypto currency datafeed,0,0,Joris Bontje,,cryptocoinwatch,cryptocoinwatch,Crypto currency datafeed,demo,37,5,0.2249140155233754,
+dapp-catalog,Dapp Catalog,0,0,Fabian Vogelsteller,Alex van de Sande,Dapp Catalog,dapp-catalog,Dapp Catalog,demo,10,0,0.13221758971574668,
+sleth,Slot Machine,0,0,Joris Bontje,,Sleth,sleth,Slot Machine,prototype,24,3,0.2327526010493031,
+wallet-dapp,Ethereum Wallet,0,0,Fabian Vogelsteller,Alex van de Sande,Wallet Dapp,wallet-dapp,Ethereum Wallet,demo,26,8,0.506849567610526,
+whisper-chat-client,Group chat,0,0,Fabian Vogelsteller,,Whisper Chat Client,whisper-chat-client,Group chat,demo,83,20,0.262302451370783,
+dapp-pricefeed,Price feed operator,0,0,Nick Dodson,,dapp pricefeed,dapp-pricefeed,Price feed operator,prototype,15,0,0.030839546747484483,
